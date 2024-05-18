@@ -1,0 +1,22 @@
+{
+  "name": "stubs",
+  "version": "0.1.0",
+  "description": "stub server for yj nsw career pathways",
+  "main": "index.js",
+  "scripts": {
+    "start": "stubby -w -d src/stubs.yml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adanilev/comp5703-cs4-2.git"
+  },
+  "author": "cs4-2",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/adanilev/comp5703-cs4-2/issues"
+  },
+  "homepage": "https://github.com/adanilev/comp5703-cs4-2#readme",
+  "dependencies": {
+    "stubby": "^5.1.0"
+  }
+}

@@ -1,0 +1,34 @@
+.Goal-Name {
+  float: left;
+  font-size: small;
+  width: 60%;
+}
+
+.Goal-Type {
+  font-size: small;
+  float: left;
+  width: 20%;
+}
+
+.Goal-Subtype {
+  float: right;
+  font-size: small;
+  width: 20%;
+}
+
+#goalDesc {
+  position: relative;
+  white-space: pre-wrap;
+  line-height: 17.5px;
+  margin-right: 17.5px;
+}
+
+.removegoal {
+  text-align: right;
+}
+.savebutton {
+  position: absolute;
+  left: 6%; 
+  top: 85%;
+  transform: translate(-50%, -50%); 
+}

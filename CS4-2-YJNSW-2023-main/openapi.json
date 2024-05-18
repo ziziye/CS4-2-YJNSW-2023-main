@@ -1,0 +1,337 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "YJNSW Career Pathways",
+    "version": "1.0",
+    "license": {
+      "name": "UNLICENSED",
+      "identifier": "Unlicense"
+    },
+    "summary": "Youth Justice NSW Career Pathways",
+    "description": "Youth Justice NSW Career Pathways API Spec",
+    "contact": {
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com"
+    }
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3000"
+    }
+  ],
+  "paths": {
+    "/roles": {
+      "parameters": [],
+      "get": {
+        "summary": "Roles",
+        "operationId": "get-roles",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "description": "",
+                  "type": "object",
+                  "properties": {
+                    "_meta": {
+                      "type": "object",
+                      "properties": {
+                        "processingTime": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "processingTimeMs": {
+                          "type": "number"
+                        },
+                        "totalRecords": {
+                          "type": "number"
+                        },
+                        "page": {
+                          "type": "number"
+                        },
+                        "limit": {
+                          "type": "number"
+                        },
+                        "count": {
+                          "type": "number"
+                        }
+                      },
+                      "required": [
+                        "processingTime",
+                        "processingTimeMs",
+                        "totalRecords",
+                        "page",
+                        "limit",
+                        "count"
+                      ]
+                    },
+                    "_links": {
+                      "type": "array",
+                      "uniqueItems": true,
+                      "minItems": 1,
+                      "items": {
+                        "required": ["href", "rel"],
+                        "properties": {
+                          "href": {
+                            "type": "string",
+                            "minLength": 1
+                          },
+                          "rel": {
+                            "type": "string",
+                            "minLength": 1
+                          }
+                        }
+                      }
+                    },
+                    "roles": {
+                      "type": "array",
+                      "uniqueItems": true,
+                      "minItems": 1,
+                      "items": {
+                        "required": ["id", "displayName", "identified", "stream"],
+                        "properties": {
+                          "id": {
+                            "type": "number",
+                            "minLength": 1
+                          },
+                          "displayName": {
+                            "type": "string",
+                            "minLength": 1
+                          },
+                          "identified": {
+                            "type": "boolean"
+                          },
+                          "stream": {
+                            "type": "string",
+                            "minLength": 1
+                          },
+                          "grade": {
+                            "type": "object",
+                            "properties": {
+                              "value": {
+                                "type": "number"
+                              },
+                              "maximum": {
+                                "type": "number"
+                              }
+                            },
+                            "required": ["value", "maximum"]
+                          },
+                          "streams": {
+                            "type": "array",
+                            "items": {
+                              "required": [],
+                              "properties": {}
+                            }
+                          },
+                          "linkedRoles": {
+                            "type": "array",
+                            "uniqueItems": true,
+                            "minItems": 1,
+                            "items": {
+                              "required": ["id", "levelType"],
+                              "properties": {
+                                "id": {
+                                  "type": "string",
+                                  "minLength": 1
+                                },
+                                "levelType": {
+                                  "type": "string",
+                                  "minLength": 1
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "required": ["_meta", "_links", "roles"],
+                  "x-examples": {
+                    "example-1": {
+                      "_meta": {
+                        "processingTime": "10 milliseconds",
+                        "processingTimeMs": 10,
+                        "totalRecords": 38,
+                        "page": 3,
+                        "limit": 10,
+                        "count": 8
+                      },
+                      "_links": [
+                        {
+                          "href": "/roles?page=3&limit=10",
+                          "rel": "self"
+                        },
+                        {
+                          "href": "/roles?page=1&limit=10",
+                          "rel": "first"
+                        },
+                        {
+                          "href": "/roles?page=5&limit=10",
+                          "rel": "last"
+                        },
+                        {
+                          "href": "/roles?page=2&limit=10",
+                          "rel": "prev"
+                        },
+                        {
+                          "href": "/roles?page=4&limit=10",
+                          "rel": "next"
+                        }
+                      ],
+                      "roles": [
+                        {
+                          "id": 1,
+                          "displayName": "Youth Justice Caseworker",
+                          "identified": true,
+                          "stream": "custodial",
+                          "grade": {
+                            "value": 7,
+                            "maximum": 8
+                          },
+                          "streams": ["custodial", "community"],
+                          "linkedRoles": [
+                            {
+                              "id": "caseworker-g6-custodial-y",
+                              "levelType": "LOWER"
+                            },
+                            {
+                              "id": "caseworker-g8-custodial-y",
+                              "levelType": "HIGHER"
+                            },
+                            {
+                              "id": "caseworker-g7-community-y",
+                              "levelType": "SAME"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                "examples": {
+                  "Success": {
+                    "value": {
+                      "_meta": {
+                        "processingTime": "10 milliseconds",
+                        "processingTimeMs": 10,
+                        "totalRecords": 38,
+                        "page": 3,
+                        "limit": 10,
+                        "count": 8
+                      },
+                      "_links": [
+                        {
+                          "href": "/roles?page=3&limit=10",
+                          "rel": "self"
+                        },
+                        {
+                          "href": "/roles?page=1&limit=10",
+                          "rel": "first"
+                        },
+                        {
+                          "href": "/roles?page=5&limit=10",
+                          "rel": "last"
+                        },
+                        {
+                          "href": "/roles?page=2&limit=10",
+                          "rel": "prev"
+                        },
+                        {
+                          "href": "/roles?page=4&limit=10",
+                          "rel": "next"
+                        }
+                      ],
+                      "roles": [
+                        {
+                          "id": "caseworker-g7-custodial-y",
+                          "displayName": "Youth Justice Caseworker",
+                          "identified": true,
+                          "stream": "custodial",
+                          "grade": {
+                            "value": 7,
+                            "maximum": 8
+                          },
+                          "streams": ["custodial", "community"],
+                          "linkedRoles": [
+                            {
+                              "id": "caseworker-g6-custodial-y",
+                              "levelType": "LOWER"
+                            },
+                            {
+                              "id": "caseworker-g8-custodial-y",
+                              "levelType": "HIGHER"
+                            },
+                            {
+                              "id": "caseworker-g7-community-y",
+                              "levelType": "SAME"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "description": "API structure based on: https://api.gov.au/standards/national_api_standards/pagination.html",
+        "parameters": [
+          {
+            "schema": {
+              "type": "number"
+            },
+            "in": "query",
+            "name": "page"
+          },
+          {
+            "schema": {
+              "type": "number"
+            },
+            "in": "query",
+            "name": "limit"
+          },
+          {
+            "schema": {
+              "type": "string"
+            },
+            "in": "query",
+            "name": "filter",
+            "description": "Must be able to search on \"identified\" and fuzzy search on role name and stream."
+          },
+          {
+            "schema": {
+              "type": "boolean"
+            },
+            "in": "query",
+            "name": "sort"
+          },
+          {
+            "schema": {
+              "type": "string"
+            },
+            "in": "query",
+            "name": "sortFields"
+          }
+        ],
+        "tags": ["roles"]
+      }
+    }
+  },
+  "components": {
+    "schemas": {},
+    "securitySchemes": {
+      "YJNSW-OIDC": {
+        "type": "openIdConnect",
+        "openIdConnectUrl": "https://example.com"
+      }
+    }
+  },
+  "security": [
+    {
+      "YJNSW-OIDC": []
+    }
+  ]
+}

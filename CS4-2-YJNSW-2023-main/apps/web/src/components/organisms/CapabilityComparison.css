@@ -1,0 +1,36 @@
+table th {
+  vertical-align: middle;
+}
+
+ul {
+  padding-left: 1.75rem;
+}
+
+.capability-print-container {
+  float: left;
+}
+
+.capability-print-container > a {
+  float: right;
+}
+
+.capability-total-level {
+  vertical-align: top;
+  text-align: center;
+}
+
+.capability-total {
+  text-align: right;
+}
+
+.fromRoleCol {
+  width: 41.5%;
+}
+
+.toRoleCol {
+  width: 43.5%;
+}
+
+.levelCol {
+  width: 15%;
+}

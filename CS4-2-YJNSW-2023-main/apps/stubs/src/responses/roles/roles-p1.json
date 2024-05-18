@@ -1,0 +1,59 @@
+{
+  "_meta": {
+    "processingTime": "10 milliseconds",
+    "processingTimeMs": 10,
+    "totalRecords": 38,
+    "page": 3,
+    "limit": 10,
+    "count": 8
+  },
+  "_links": [
+    {
+      "href": "/roles?page=3&limit=10",
+      "rel": "self"
+    },
+    {
+      "href": "/roles?page=1&limit=10",
+      "rel": "first"
+    },
+    {
+      "href": "/roles?page=5&limit=10",
+      "rel": "last"
+    },
+    {
+      "href": "/roles?page=2&limit=10",
+      "rel": "prev"
+    },
+    {
+      "href": "/roles?page=4&limit=10",
+      "rel": "next"
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "displayName": "Youth Justice Caseworker",
+      "identified": true,
+      "stream": "custodial",
+      "grade": {
+        "value": 7,
+        "maximum": 8
+      },
+      "streams": ["custodial", "community"],
+      "linkedRoles": [
+        {
+          "id": "caseworker-g6-custodial-y",
+          "levelType": "LOWER"
+        },
+        {
+          "id": "caseworker-g8-custodial-y",
+          "levelType": "HIGHER"
+        },
+        {
+          "id": "caseworker-g7-community-y",
+          "levelType": "SAME"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+.capability-print-container {
+  float: left;
+}
+
+.capability-print-container > a {
+  float: right;
+}

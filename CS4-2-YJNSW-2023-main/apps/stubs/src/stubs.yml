@@ -1,0 +1,8 @@
+- request:
+    url: ^/roles
+    method: get
+  response:
+    status: 200
+    headers:
+      content-type: application/json
+    file: responses/roles/roles-p1.json

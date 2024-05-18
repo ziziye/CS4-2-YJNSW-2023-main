@@ -1,0 +1,26 @@
+[
+  {
+    "id": "seventy",
+    "goalTypeName": "70"
+  },
+  {
+    "id": "twenty",
+    "goalTypeName": "20"
+  },
+  {
+    "id": "ten",
+    "goalTypeName": "10"
+  },
+  {
+    "id": "performance",
+    "goalTypeName": "Performance"
+  },
+  {
+    "id": "development",
+    "goalTypeName": "Development"
+  },
+  {
+    "id": "capability",
+    "goalTypeName": "Capability"
+  }
+]

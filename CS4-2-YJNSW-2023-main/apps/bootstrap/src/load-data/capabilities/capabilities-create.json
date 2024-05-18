@@ -1,0 +1,502 @@
+[
+  {
+    "id": "capability-1-adept",
+    "capabilityName": "Act with Integrity - Adept",
+    "capabilityDesc": "Represent the organisation in an honest, ethical and professional way and encourage others to do so\n\nAct professionally and support a culture of integrity\n\nIdentify and explain ethical issues and set an example for others to follow\n\nEnsure that others are aware of and understand the legislation and policy framework within which they operate\n\nAct to prevent and report misconduct and illegal and inappropriate behaviour"
+  },
+  {
+    "id": "capability-1-advanced",
+    "capabilityName": "Act with Integrity - Advanced",
+    "capabilityDesc": "Model the highest standards of ethical and professional behaviour and reinforce their use\n\nRepresent the organisation in an honest, ethical and professional way and set an example for others to follow\n\nPromote a culture of integrity and professionalism within the organisation and in dealings external to government\n\nMonitor ethical practices, standards and systems and reinforce their use\n\nAct promptly on reported breaches of legislation, policies and guidelines"
+  },
+  {
+    "id": "capability-1-foundational",
+    "capabilityName": "Act with Integrity - Foundational",
+    "capabilityDesc": "Behave in an honest, ethical and professional way\n\nBuild understanding of ethical behaviour\n\nFollow legislation, policies, guidelines and codes of conduct that apply to your role and organisation\n\nSpeak out against misconduct and illegal and inappropriate behaviour\n\nReport apparent conflicts of interest"
+  },
+  {
+    "id": "capability-1-highlyadvanced",
+    "capabilityName": "Act with Integrity - Highly Advanced",
+    "capabilityDesc": "Champion and model the highest standards of ethical and professional behaviour\n\nDrive a culture of integrity and professionalism within the organisation, and in dealings across government and with other jurisdictions and external organisations\n\nSet, communicate and evaluate ethical practices, standards and systems and reinforce their use\n\nCreate and promote a culture in which staff feel able to report apparent breaches of legislation, policies and guidelines and act promptly and visibly in response to such reports\n\nAct promptly and visibly to prevent and respond to unethical behaviour"
+  },
+  {
+    "id": "capability-1-intermediate",
+    "capabilityName": "Act with Integrity - Intermediate",
+    "capabilityDesc": "Represent the organisation in an honest, ethical and professional way\n\nSupport a culture of integrity and professionalism\n\nUnderstand and help others to recognise their obligations to comply with legislation, policies, guidelines and codes of conduct\n\nRecognise and report misconduct and illegal and inappropriate behaviour\n\nReport and manage apparent conflicts of interest and encourage others to do so"
+  },
+  {
+    "id": "capability-2-adept",
+    "capabilityName": "Commit to Customer Service - Adept",
+    "capabilityDesc": "Take responsibility for delivering high-quality customer-focused services \n\nDesign processes and policies based on the customer’s point of view and needs \n\nUnderstand and measure what is important to customers \n\nUse data and information to monitor and improve customer service delivery \n\nFind opportunities to cooperate with internal and external stakeholders to improve outcomes for customers \n\nMaintain relationships with key customers in area of expertise \n\nConnect and collaborate with relevant customers within the community"
+  },
+  {
+    "id": "capability-2-advanced",
+    "capabilityName": "Commit to Customer Service - Advanced",
+    "capabilityDesc": "Promote a customer-focused culture in the organisation and consider new ways of working to improve customer experience \n\nEnsure systems are in place to capture customer service insights to improve services \n\nInitiate and develop partnerships with customers to define and evaluate service performance outcomes \n\nPromote and manage alliances within the organisation and across the public, private and community sectors \n\nLiaise with senior stakeholders on key issues and provide expert and influential advice \n\nIdentify and incorporate the interests and needs of customers in business process design and encourage new ideas and innovative approaches \n\nEnsure that the organisation’s systems, processes, policies and programs respond to customer needs"
+  },
+  {
+    "id": "capability-2-foundational",
+    "capabilityName": "Commit to Customer Service - Foundational",
+    "capabilityDesc": "Recognise the importance of customer service and understanding customer needs \n\nHelp customers understand the services that are available \n\nTake responsibility for delivering services that meet customer requirements \n\nKeep customers informed of progress and seek feedback to ensure their needs are met \n\nShow respect, courtesy and fairness when interacting with customers \n\nRecognise that customer service involves both external and internal customers"
+  },
+  {
+    "id": "capability-2-highlyadvanced",
+    "capabilityName": "Commit to Customer Service - Highly Advanced",
+    "capabilityDesc": "Create a culture that embraces high-quality customer service across the organisation, ensuring that management systems and processes drive service delivery outcomes \n\nEngage and negotiate with stakeholders on strategic issues related to government policy, standards of customer service and accessibility, and provide expert, influential advice \n\nEnsure that responsiveness to customer needs is central to the organisation’s strategic planning processes \n\nSet overall performance standards for service delivery across the organisation and monitor compliance"
+  },
+  {
+    "id": "capability-2-intermediate",
+    "capabilityName": "Commit to Customer Service - Intermediate",
+    "capabilityDesc": "Focus on providing a positive customer experience \n\nSupport a customer-focused culture in the organisation \n\nDemonstrate a thorough knowledge of the services provided and relay this knowledge to customers \n\nIdentify and respond quickly to customer needs \n\nConsider customer service requirements and develop solutions to meet needs \n\nResolve complex customer issues and needs \n\nCooperate across work areas to improve outcomes for customers"
+  },
+  {
+    "id": "capability-3-adept",
+    "capabilityName": "Communicate Effectively - Adept",
+    "capabilityDesc": "Tailor communication to diverse audiences \n\nClearly explain complex concepts and arguments to individuals and groups \n\nCreate opportunities for others to be heard, listen attentively and encourage them to express their views \n\nShare information across teams and units to enable informed decision making \n\nWrite fluently in plain English and in a range of styles and formats \n\nUse contemporary communication channels to share information, engage and interact with diverse audiences"
+  },
+  {
+    "id": "capability-3-advanced",
+    "capabilityName": "Communicate Effectively - Advanced",
+    "capabilityDesc": "Present with credibility, engage diverse audiences and test levels of understanding \n\nTranslate technical and complex information clearly and concisely for diverse audiences \n\nCreate opportunities for others to contribute to discussion and debate \n\nContribute to and promote information sharing across the organisation \n\nManage complex communications that involve understanding and responding to multiple and divergent viewpoints \n\nExplore creative ways to engage diverse audiences and communicate information \n\nAdjust style and approach to optimise outcomes \n\nWrite fluently and persuasively in plain English and in a range of styles and formats"
+  },
+  {
+    "id": "capability-3-foundational",
+    "capabilityName": "Communicate Effectively - Foundational",
+    "capabilityDesc": "Speak at the right pace and volume for diverse audiences \n\nAllow others time to speak \n\nListen and ask questions to check understanding \n\nExplain things clearly using inclusive language \n\nBe aware of own body language and facial expressions \n\nWrite in a way that is logical and easy to follow \n\nUse various communication channels to obtain and share information"
+  },
+  {
+    "id": "capability-3-highlyadvanced",
+    "capabilityName": "Communicate Effectively - Highly Advanced",
+    "capabilityDesc": "Articulate complex concepts and put forward compelling arguments and rationales to all levels and types of audiences \n\nSpeak in a highly articulate and influential manner \n\nState the facts and explain their implications for the organisation and key stakeholders \n\nPromote the organisation’s position with authority and credibility across government, other jurisdictions and external organisations \n\nAnticipate and address key areas of interest for the audience and adapt style under pressure"
+  },
+  {
+    "id": "capability-3-intermediate",
+    "capabilityName": "Communicate Effectively - Intermediate",
+    "capabilityDesc": "Focus on key points and speak in plain English \n\nClearly explain and present ideas and arguments \n\nListen to others to gain an understanding and ask appropriate, respectful questions \n\nPromote the use of inclusive language and assist others to adjust where necessary \n\nMonitor own and others’ non-verbal cues and adapt where necessary \n\nWrite and prepare material that is well structured and easy to follow \n\nCommunicate routine technical information clearly"
+  },
+  {
+    "id": "capability-4-adept",
+    "capabilityName": "Deliver Results - Adept",
+    "capabilityDesc": "Use own and others’ expertise to achieve outcomes, and take responsibility for delivering intended outcomes\n\nMake sure staff understand expected goals and acknowledge staff success in achieving these\n\nIdentify resource needs and ensure goals are achieved within set budgets and deadlines\n\nUse business data to evaluate outcomes and inform continuous improvement\n\nIdentify priorities that need to change and ensure the allocation of resources meets new business needs \n\nEnsure that the financial implications of changed priorities are explicit and budgeted for"
+  },
+  {
+    "id": "capability-4-advanced",
+    "capabilityName": "Deliver Results - Advanced",
+    "capabilityDesc": "Seek and apply the expertise of key individuals to achieve organisational outcomes\n\nDrive a culture of achievement and acknowledge input from others\n\nDetermine how outcomes will be measured and guide others on evaluation methods\n\nInvestigate and create opportunities to enhance the achievement of organisational objectives\n\nMake sure others understand that on-time and on-budget results are required and how overall success is defined\n\nControl business unit output to ensure government outcomes are achieved within budgets \n\nProgress organisational priorities and ensure that resources are acquired and used effectively"
+  },
+  {
+    "id": "capability-4-foundational",
+    "capabilityName": "Deliver Results - Foundational",
+    "capabilityDesc": "Seek clarification when unsure of work tasks \n\nComplete own work tasks under guidance within set budgets, timeframes and standards \n\nTake the initiative to progress own work \n\nIdentify resources needed to complete allocated work tasks"
+  },
+  {
+    "id": "capability-4-highlyadvanced",
+    "capabilityName": "Deliver Results - Highly Advanced",
+    "capabilityDesc": "Use own professional knowledge and the expertise of others to drive forward organisational and government objectives \n\nCreate a culture of achievement, fostering on-time and on-budget quality outcomes in the organisation \n\nIdentify, recognise and celebrate success \n\nEstablish systems to ensure all staff are able to identify direct connections between their efforts and organisational outcomes \n\nIdentify and remove potential barriers or hurdles to achieving outcomes \n\nInitiate and communicate high-level priorities for the organisation to achieve government outcomes"
+  },
+  {
+    "id": "capability-4-intermediate",
+    "capabilityName": "Deliver Results - Intermediate",
+    "capabilityDesc": "Seek and apply specialist advice when required\n\nComplete work tasks within set budgets, timeframes and standards\n\nTake the initiative to progress and deliver own work and that of the team or unit\n\nContribute to allocating responsibilities and resources to ensure the team or unit achieves goals\n\nIdentify any barriers to achieving results and resolve these where possible \n\nProactively change or adjust plans when needed"
+  },
+  {
+    "id": "capability-5-adept",
+    "capabilityName": "Demonstrate Accountability - Adept",
+    "capabilityDesc": "Assess work outcomes and identify and share learnings to inform future actions\n\nEnsure that own actions and those of others are focused on achieving organisational outcomes\n\nExercise delegations responsibly\n\nUnderstand and apply high standards of financial probity with public monies and other resources\n\nIdentify and implement safe work practices, taking a systematic risk management approach to ensure own and others’ health and safety\n\nConduct and report on quality control audits\nIdentify risks to successfully achieving goals, and take appropriate steps to mitigate those risks"
+  },
+  {
+    "id": "capability-5-advanced",
+    "capabilityName": "Demonstrate Accountability - Advanced",
+    "capabilityDesc": "Design and develop systems to establish and measure accountabilities\n\nEnsure accountabilities are exercised in line with government and business goals\n\nExercise due diligence to ensure work health and safety risks are addressed\n\nOversee quality assurance practices\n\nModel the highest standards of financial probity, demonstrating respect for  public  monies  and other resources\n\nMonitor and maintain business-unit knowledge of and compliance with legislative and regulatory frameworks \n\nIncorporate sound risk management principles and strategies into business planning"
+  },
+  {
+    "id": "capability-5-foundational",
+    "capabilityName": "Demonstrate Accountability - Foundational",
+    "capabilityDesc": "Take responsibility for own actions \n\nBe aware of delegations and act within authority levels \n\nBe aware of team goals and their impact on work tasks \n\nFollow safe work practices and take reasonable care of own and others’ health and safety \n\nEscalate issues when these are identified \n\nFollow government and organisational record-keeping requirements"
+  },
+  {
+    "id": "capability-5-highlyadvanced",
+    "capabilityName": "Demonstrate Accountability - Highly Advanced",
+    "capabilityDesc": "Direct the development of effective systems for establishing and measuring accountabilities and evaluate ongoing effectiveness \n\nPromote a culture of accountability with clear links to government goals \n\nSet standards and exercise due diligence to ensure work health and safety risks are addressed \n\nInspire a culture that respects the obligation to manage public monies and other resources responsibly and with the highest standards of probity \n\nEnsure that legislative and regulatory frameworks are applied consistently and effectively across the organisation \n\nDirect the development of short-and long-term risk management frameworks to ensure government aims and objectives are achieved"
+  },
+  {
+    "id": "capability-5-intermediate",
+    "capabilityName": "Demonstrate Accountability - Intermediate",
+    "capabilityDesc": "Be proactive in taking responsibility and being accountable for own actions\n\nUnderstand delegations and act within authority levels\n\nIdentify and follow safe work practices, and be vigilant about own and others’ application of these practices\n\nBe aware of risks and act on or escalate risks, as appropriate \n\nUse financial and other resources responsibly"
+  },
+  {
+    "id": "capability-6-adept",
+    "capabilityName": "Display Resilience and Courage - Adept",
+    "capabilityDesc": "Be flexible, show initiative and respond quickly when situations change\n\nGive frank and honest feedback and advice\n\nListen when ideas are challenged, seek to understand\nthe nature of the comment and respond appropriately\n\nRaise and work through challenging issues and seek alternatives\n\nRemain composed and calm under pressure and in challenging situations"
+  },
+  {
+    "id": "capability-6-advanced",
+    "capabilityName": "Display Resilience and Courage - Advanced",
+    "capabilityDesc": "Remain composed and calm and act constructively in highly pressured and unpredictable environments\n\nGive frank, honest advice in response to strong contrary views\n\nAccept criticism of own ideas and respond in a thoughtful and considered way\n\nWelcome new challenges and persist in raising and working through novel and difficult issues\n\nDevelop effective strategies and show decisiveness in dealing with emotionally charged situations and difficult or controversial issues"
+  },
+  {
+    "id": "capability-6-foundational",
+    "capabilityName": "Display Resilience and Courage - Foundational",
+    "capabilityDesc": "Be open to new ideas and approaches\n\nOffer own opinion, ask questions and make suggestions\n\nAdapt well to new situations\n\nDo not give up easily when problems arise\n\nRemain calm in challenging situations"
+  },
+  {
+    "id": "capability-6-highlyadvanced",
+    "capabilityName": "Display Resilience and Courage - Highly Advanced",
+    "capabilityDesc": "Create a culture that encourages and supports openness, persistence and genuine debate around critical issues\n\nProvide clear exposition and argument for agreed positions while remaining open to valid suggestions for change\n\nRaise critical issues and make tough decisions\n\nRespond to significant, complex and novel challenges with a high level of resilience and persistence\n\nConsistently use a range of strategies to remain composed and calm and act as a stabilising influence even in the most challenging situations"
+  },
+  {
+    "id": "capability-6-intermediate",
+    "capabilityName": "Display Resilience and Courage - Intermediate",
+    "capabilityDesc": "Be flexible and adaptable and respond quickly when situations change\n\nOffer own opinion and raise challenging issues\n\nListen when ideas are challenged and respond appropriately\n\nWork through challenges \n\nRemain calm and focused in challenging situations"
+  },
+  {
+    "id": "capability-7-adept",
+    "capabilityName": "Finance - Adept",
+    "capabilityDesc": "Understand core financial terminology, policies and processes, and display knowledge of relevant recurrent and capital financial measures\n\nUnderstand the impacts of funding allocations on business planning and budgets\n\nIdentify discrepancies or variances in financial and budget  reports, and take corrective action\n\nKnow when to seek specialist advice and support and establish the relevant relationships \n\nMake decisions and prepare business cases, paying due regard to financial considerations"
+  },
+  {
+    "id": "capability-7-advanced",
+    "capabilityName": "Finance - Advanced",
+    "capabilityDesc": "Apply a thorough understanding of recurrent and capital financial terminology, policies and processes to planning, forecasting and budget preparation and management \n\nIdentify and analyse trends, review data and evaluate business options to ensure business cases are financially sound \n\nAssess relative cost benefits of various purchasing options \n\nPromote the role of sound financial management and its impact on organisational effectiveness \n\nObtain specialist financial advice when reviewing and evaluating finance systems and processes \n\nRespond to financial and risk management audit outcomes, addressing areas of non-compliance in a timely manner"
+  },
+  {
+    "id": "capability-7-foundational",
+    "capabilityName": "Finance - Foundational",
+    "capabilityDesc": "Understand that government services budgets are limited and must only be used for intended purposes \n\nAppreciate the importance of accuracy and completeness in estimating costs and calculating and recording financial information \n\nBe aware of financial delegation principles and processes \n\nUnderstand basic compliance obligations related to using resources and recording financial transactions"
+  },
+  {
+    "id": "capability-7-highlyadvanced",
+    "capabilityName": "Finance - Highly Advanced",
+    "capabilityDesc": "Advocate for committed outcomes to be considered in decision making for project prioritisation and resourcing decisions \n\nDefine organisational directions and set priorities and business plans, referring to key financial indicators and non-financial committed outcomes \n\nAnticipate operational and capital needs, and identify the most appropriate financing and funding strategies to meet them \n\nEnsure that the organisation informs strategic decisions with appropriate advice from finance and risk professionals \n\nEstablish effective governance to ensure that financial resources are used ethically and prudently across the organisation"
+  },
+  {
+    "id": "capability-7-intermediate",
+    "capabilityName": "Finance - Intermediate",
+    "capabilityDesc": "Understand basic financial terminology, policies and processes, including the difference between recurrent and capital spending\n\nConsider financial implications and value for money in making recommendations and decisions\n\nUnderstand how financial decisions impact the overall financial position\n\nUnderstand and act on financial audit, reporting and compliance obligations \n\nDisplay an awareness of financial risk, reputational risk and exposure, and propose solutions to address these"
+  },
+  {
+    "id": "capability-8-adept",
+    "capabilityName": "Influence and Negotiate - Adept",
+    "capabilityDesc": "Negotiate from an informed and credible position \n\nLead and facilitate productive discussions with staff and stakeholders \n\nEncourage others to talk, share and debate ideas to achieve a consensus \n\nRecognise diverse perspectives and the need for compromise in negotiating mutually agreed outcomes \n\nInfluence others with a fair and considered approach and sound arguments \n\nShow sensitivity and understanding in resolving conflicts and differences \n\nManage challenging relationships with internal and external stakeholders \n\nAnticipate and minimise conflict"
+  },
+  {
+    "id": "capability-8-advanced",
+    "capabilityName": "Influence and Negotiate - Advanced",
+    "capabilityDesc": "Influence others with a fair and considered approach and present persuasive counter-arguments \n\nWork towards mutually beneficial ‘win-win’ outcomes \n\nShow sensitivity and understanding in resolving acute and complex conflicts and differences \n\nIdentify key stakeholders and gain their support in advance \n\nEstablish a clear negotiation position based on research, a firm grasp of key issues, likely arguments, points of difference and areas for compromise \n\nAnticipate and minimise conflict within the organisation and with external stakeholders"
+  },
+  {
+    "id": "capability-8-foundational",
+    "capabilityName": "Influence and Negotiate - Foundational",
+    "capabilityDesc": "Use facts to support claims \n\nHelp to find solutions that contribute to positive outcomes \n\nContribute to resolving differences with other staff or stakeholders \n\nRespond to conflict without worsening the situation and refer to a supervisor where appropriate \n\nKnow when to withdraw from a conflict situation"
+  },
+  {
+    "id": "capability-8-highlyadvanced",
+    "capabilityName": "Influence and Negotiate - Highly Advanced",
+    "capabilityDesc": "Engage in a range of approaches to generate solutions, seeking expert inputs and advice to inform negotiating strategy \n\nUse sound arguments, strong evidence and expert opinion to influence outcomes \n\nDetermine and communicate the organisation’s position and bargaining strategy \n\nRepresent the organisation in critical and challenging negotiations, including those that are cross-jurisdictional \n\nAchieve effective solutions when dealing with ambiguous or conflicting positions \n\nAnticipate and avoid conflict across organisations and with senior internal and external stakeholders \n\nIdentify contentious issues, direct discussion and debate, and steer parties towards an effective resolution"
+  },
+  {
+    "id": "capability-8-intermediate",
+    "capabilityName": "Influence and Negotiate - Intermediate",
+    "capabilityDesc": "Use facts, knowledge and experience to support recommendations \n\nWork towards positive and mutually satisfactory outcomes \n\nIdentify and resolve issues in discussion with other staff and stakeholders \n\nIdentify others’ concerns and expectations \n\nRespond constructively to conflict and disagreements and be open to compromise \n\nKeep discussions focused on the key issues"
+  },
+  {
+    "id": "capability-9-adept",
+    "capabilityName": "Inspire Direction and Purpose - Adept",
+    "capabilityDesc": "Promote a sense of purpose, and help the team to understand the strategic direction of the organisation and the needs of customers and stakeholders\n\nTranslate broad organisational strategy and goals into tangible team goals and explain the links for the team\n\nEnsure that team objectives and outcomes lead to the implementation of government priorities and create value for customers and stakeholders\n\nWork to remove barriers to achieving goals"
+  },
+  {
+    "id": "capability-9-advanced",
+    "capabilityName": "Inspire Direction and Purpose - Advanced",
+    "capabilityDesc": "Promote a sense of purpose and enable others to understand the links between government policy, organisational goals and public value\n\nBuild a shared sense of direction, clarify priorities and goals, and inspire others to achieve these\n\nWork with others to translate strategic direction into operational goals and build a shared understanding of the link between these and core business outcomes\n\nCreate opportunities for recognising and celebrating high performance at the individual and team level \n\nInstil confidence, and cultivate an attitude of openness and curiosity in tackling future challenges"
+  },
+  {
+    "id": "capability-9-foundational",
+    "capabilityName": "Inspire Direction and Purpose - Foundational",
+    "capabilityDesc": "Assist team members to understand organisational directions \n\nEnsure team members understand the organisation’s policies and services \n\nEnsure team members understand how their activities align with business objectives and the organisation’s performance \n\nRecognise and acknowledge team members’ high-quality work and effort"
+  },
+  {
+    "id": "capability-9-highlyadvanced",
+    "capabilityName": "Inspire Direction and Purpose - Highly Advanced",
+    "capabilityDesc": "Champion the organisational vision and strategy, and communicate the way forward \n\nCreate a culture of confidence and trust in the future direction \n\nGenerate enthusiasm and commitment to goals and cascade understanding throughout the organisation \n\nCommunicate the parameters and expectations surrounding organisational strategies \n\nCelebrate organisational success and high performance, and engage in activities to maintain morale"
+  },
+  {
+    "id": "capability-9-intermediate",
+    "capabilityName": "Inspire Direction and Purpose - Intermediate",
+    "capabilityDesc": "Assist the team or unit to understand organisational directions and explain the reasons behind decisions \n\nEnsure that team and unit objectives lead to the achievement of business outcomes that align with organisational policies \n\nEnsure team members understand how their activities create value for the organisation, customers and stakeholders \n\nEncourage team members to strive for ongoing performance improvement \n\nRecognise and acknowledge high individual and team performance"
+  },
+  {
+    "id": "capability-10-adept",
+    "capabilityName": "Manage and Develop People - Adept",
+    "capabilityDesc": "Define and clearly communicate roles, responsibilities and performance standards to achieve team outcomes\n\nAdjust performance development processes to meet the diverse abilities and needs of individuals and teams\n\nDevelop work plans that consider capability, strengths and opportunities for development\n\nBe aware of the influences of bias when managing team members\n\nSeek feedback on own management capabilities and develop strategies to address any gaps\n\nAddress and resolve team and individual performance issues, including unsatisfactory performance, in a timely and effective way\n\nMonitor and report on team performance in line with established performance development frameworks"
+  },
+  {
+    "id": "capability-10-advanced",
+    "capabilityName": "Manage and Develop People - Advanced",
+    "capabilityDesc": "Refine roles and responsibilities over time to achieve better business outcomes\n\nRecognise talent, develop team capability and undertake succession planning\n\nCoach and mentor staff and encourage professional development and continuous learning\n\nPrioritise addressing and resolving team and individual performance issues and ensure that this approach is cascaded throughout the organisation \n\nImplement performance development frameworks to align workforce capability with the organisation’s current and future priorities and objectives"
+  },
+  {
+    "id": "capability-10-foundational",
+    "capabilityName": "Manage and Develop People - Foundational",
+    "capabilityDesc": "Clarify the work required, and the expected behaviours and outputs\n\nClearly communicate team members’ roles and responsibilities\n\nContribute to developing team capability and recognise potential in people\n\nRecognise good performance, and give support and regular constructive feedback linked to development needs\n\nIdentify appropriate learning opportunities for team members\n\nCreate opportunities for all team members to contribute\n\nAct as a role model for inclusive behaviours and practices \n\nRecognise performance issues that need to be addressed and seek appropriate advice"
+  },
+  {
+    "id": "capability-10-highlyadvanced",
+    "capabilityName": "Manage and Develop People - Highly Advanced",
+    "capabilityDesc": "Ensure performance development frameworks are in place to manage staff performance, drive the development of organisational capability and undertake succession planning \n\nDrive executive capability development and ensure effective succession management practices \n\nImplement effective approaches to identify and develop talent across the organisation \n\nModel and encourage a culture of continuous learning and leadership that values high levels of constructive feedback and exposure to new experiences \n\nDrive a culture of high performance and ensure performance issues are addressed as a priority"
+  },
+  {
+    "id": "capability-10-intermediate",
+    "capabilityName": "Manage and Develop People - Intermediate",
+    "capabilityDesc": "Collaborate to set clear performance standards and deadlines in line with established performance development frameworks \n\nLook for ways to develop team capability and recognise and develop individual potential \n\nBe constructive and build on strengths by giving timely and actionable feedback \n\nIdentify and act on opportunities to provide coaching and mentoring \n\nRecognise performance issues that need to be addressed and work towards resolving issues \n\nEffectively support and manage team members who are working flexibly and in various locations \n\nCreate a safe environment where team members’ diverse backgrounds and cultures are considered and respected \n\nConsider feedback on own management style and reflect on potential areas to improve"
+  },
+  {
+    "id": "capability-11-adept",
+    "capabilityName": "Manage Reform Change - Adept",
+    "capabilityDesc": "Support teams in developing new ways of working and generating innovative ideas to approach challenges \n\nActively promote change processes to staff and participate in communicating change initiatives across the organisation \n\nProvide guidance, coaching and direction to others who are managing uncertainty and change \n\nEngage staff in change processes and provide clear guidance, coaching and support \n\nIdentify cultural barriers to change and implement strategies to address these"
+  },
+  {
+    "id": "capability-11-advanced",
+    "capabilityName": "Manage Reform Change - Advanced",
+    "capabilityDesc": "Clarify the purpose and benefits of continuous improvement for staff and provide coaching and leadership in times of uncertainty\n\nAssist others to address emerging challenges and risks and generate support for change initiatives\n\nTranslate change initiatives into practical strategies and explain these to staff, and their role in implementing them\n\nImplement structured change management processes to identify and develop responses to cultural barriers"
+  },
+  {
+    "id": "capability-11-foundational",
+    "capabilityName": "Manage Reform Change - Foundational",
+    "capabilityDesc": "Support change initiatives and assist team members to understand their purpose and impact \n\nShare information with team members to assist them to understand and manage uncertainty and change \n\nRecognise barriers to change and support the team so they can better accept and facilitate change"
+  },
+  {
+    "id": "capability-11-highlyadvanced",
+    "capabilityName": "Manage Reform Change - Highly Advanced",
+    "capabilityDesc": "Drive a continuous improvement agenda, define high-level objectives and translate these into practical implementation strategies \n\nBuild staff support for and commitment to announced change, and plan and prepare for long-term organisational change, with a focus on the wider political, social and environmental context \n\nCreate an organisational culture that actively seeks opportunities to improve \n\nAnticipate, plan for and address cultural barriers to change at the organisational level"
+  },
+  {
+    "id": "capability-11-intermediate",
+    "capabilityName": "Manage Reform Change - Intermediate",
+    "capabilityDesc": "Promote change processes and communicate change initiatives across the team or unit\n\nAccommodate changing priorities and respond flexibly to uncertainty and ambiguity \n\nSupport others in managing uncertainty and change"
+  },
+  {
+    "id": "capability-12-adept",
+    "capabilityName": "Manage Self - Adept",
+    "capabilityDesc": "Keep up to date with relevant contemporary knowledge and practices\n\nLook for and take advantage of opportunities to learn new skills and develop strengths\n\nShow commitment to achieving challenging goals\n\nExamine and reflect on own performance\n\nSeek and respond positively to constructive feedback and guidance\n\nDemonstrate and maintain a high level of personal motivation"
+  },
+  {
+    "id": "capability-12-advanced",
+    "capabilityName": "Manage Self - Advanced",
+    "capabilityDesc": "Act as a professional role model for colleagues, set high personal goals and take pride in their achievement\n\nActively seek, reflect and act on feedback on own performance\n\nTranslate negative feedback into an opportunity to improve\n\nTake the initiative and act in a decisive way\n\nDemonstrate a strong interest in new knowledge and emerging practices relevant to the organisation"
+  },
+  {
+    "id": "capability-12-foundational",
+    "capabilityName": "Manage Self - Foundational",
+    "capabilityDesc": "Be willing to develop and apply new skills\n\nShow commitment to completing assigned work activities\n\nLook for opportunities to learn and develop\n\nReflect on feedback from colleagues and stakeholders"
+  },
+  {
+    "id": "capability-12-highlyadvanced",
+    "capabilityName": "Manage Self - Highly Advanced",
+    "capabilityDesc": "Promote and model the value of self-improvement and be proactive in seeking opportunities for growth and new learning\n\nActively seek, reflect on and integrate feedback to enhance own performance, showing a strong capacity and willingness to modify own behaviour\n\nManage challenging, ambiguous and complex issues calmly and logically \n\nModel initiative and decisiveness"
+  },
+  {
+    "id": "capability-12-intermediate",
+    "capabilityName": "Manage Self - Intermediate",
+    "capabilityDesc": "Adapt existing skills to new situations\n\nShow commitment to achieving work goals\n\nShow awareness of own strengths and areas for growth, and develop and apply new skills\n\nSeek feedback from colleagues\nand stakeholders\n\nStay motivated when tasks become difficult"
+  },
+  {
+    "id": "capability-13-adept",
+    "capabilityName": "Optimise Business Outcomes - Adept",
+    "capabilityDesc": "Initiate and develop longer-term goals and plans to guide the work of the team in line with organisational objectives\n\nAllocate resources to ensure the achievement of business outcomes and contribute to wider workforce planning\n\nWhen planning resources, implement processes that encourage the attraction and retention of people of diverse cultures, backgrounds and experiences\n\nEnsure that team members base their decisions on a sound understanding of business and risk management principles, applied in a public sector context\n\nMonitor performance against standards and take timely corrective actions \n\nKeep others informed about progress and performance outcomes"
+  },
+  {
+    "id": "capability-13-advanced",
+    "capabilityName": "Optimise Business Outcomes - Advanced",
+    "capabilityDesc": "Prepare and review project scope and business cases for projects with multiple interdependencies\n\nAccess key subject-matter experts’ knowledge to inform project plans and directions\n\nDesign and implement effective stakeholder engagement and communications strategies for all project stages\n\nMonitor project completion and implement effective and rigorous project evaluation methodologies to inform future planning\n\nDevelop effective strategies to remedy variances from project plans and minimise impact\n\nManage transitions between project stages and ensure that changes are consistent with organisational goals \n\nParticipate in governance processes such as project steering groups"
+  },
+  {
+    "id": "capability-13-foundational",
+    "capabilityName": "Optimise Business Outcomes - Foundational",
+    "capabilityDesc": "Keep team members informed of the reasons for decisions so that this can inform their work \n\nEnsure that team members make effective use of resources to maximise business outcomes \n\nEnsure that team members understand and inform customers about processes, practices and decisions \n\nEnsure that team members understand business principles to achieve work tasks effectively \n\nEnsure team goals and standards are met"
+  },
+  {
+    "id": "capability-13-highlyadvanced",
+    "capabilityName": "Optimise Business Outcomes - Highly Advanced",
+    "capabilityDesc": "Ensure that organisational architecture is aligned to the organisation’s goals and responds to changes over time \n\nEngage in strategic workforce planning and strategic resource utilisation to ensure that the organisation’s aims and goals and the government’s objectives can be achieved \n\nAlign workforce resources and talent with organisational priorities \n\nSet clear boundaries and freedoms for the organisation in risk taking \n\nHold self and others accountable for implementing and maintaining inclusive workforce management practices"
+  },
+  {
+    "id": "capability-13-intermediate",
+    "capabilityName": "Optimise Business Outcomes - Intermediate",
+    "capabilityDesc": "Develop team and unit plans that consider team capabilities and strengths\n\nPlan and monitor resource allocation effectively to achieve team and unit objectives\n\nWhen planning resources, consider the attraction and retention of people of diverse cultures, backgrounds and experiences\n\nEnsure that team members work with a good understanding of business principles as they apply to the public sector context \n\nParticipate in wider organisational workforce planning to ensure that capable resources are available"
+  },
+  {
+    "id": "capability-14-adept",
+    "capabilityName": "Plan and Prioritise - Adept",
+    "capabilityDesc": "Consider the future aims and goals of the team, unit and organisation when prioritising own and others’ work\n\nInitiate, prioritise, consult on and develop team and unit goals, strategies and plans\n\nAnticipate and assess the impact of changes, including government policy and economic conditions, on team and unit objectives and initiate appropriate responses\n\nEnsure current work plans and activities support and are consistent with organisational change initiatives\n\nEvaluate outcomes and adjust future plans accordingly "
+  },
+  {
+    "id": "capability-14-advanced",
+    "capabilityName": "Plan and Prioritise - Advanced",
+    "capabilityDesc": "Understand the links between the business unit, organisation and the whole-of-government agenda\n\nEnsure business plan goals are clear and appropriate and include contingency provisions\n\nMonitor the progress of initiatives and make necessary adjustments\n\nAnticipate and assess the impact of changes, including government policy and economic conditions, on business plans and initiatives and respond appropriately\n\nConsider the implications of a wide range of complex issues and shift business priorities when necessary \n\nUndertake planning to help the organisation transition through change initiatives, and evaluate progress and outcomes to inform future planning"
+  },
+  {
+    "id": "capability-14-foundational",
+    "capabilityName": "Plan and Prioritise - Foundational",
+    "capabilityDesc": "Plan and coordinate allocated activities\n\nRe-prioritise own work activities on a regular basis to achieve set goals\n\nContribute to the development of team work plans and goal setting\n\nUnderstand team objectives and how own work relates to achieving these"
+  },
+  {
+    "id": "capability-14-highlyadvanced",
+    "capabilityName": "Plan and Prioritise - Highly Advanced",
+    "capabilityDesc": "Establish broad organisational objectives, ensure that these are the focus for all planning activities and communicate these objectives to staff \n\nInfluence the organisation’s current and potential future role within government and the community, and plan appropriately \n\nEnsure effective governance frameworks and guidance enable high-quality strategic corporate, business and operational planning \n\nConsider emerging trends, identify long-term opportunities and align organisational requirements with desired whole-of-government outcomes \n\nDrive initiatives in an environment of ongoing, widespread change with consideration given to policy directions set by the government"
+  },
+  {
+    "id": "capability-14-intermediate",
+    "capabilityName": "Plan and Prioritise - Intermediate",
+    "capabilityDesc": "Understand the team and unit objectives and align operational activities accordingly\n\nInitiate and develop team goals and plans, and use feedback to inform future planning\n\nRespond proactively to changing circumstances and adjust plans and schedules when necessary\n\nConsider the implications of immediate and longer-term organisational issues and how these might affect the achievement of team and unit goals \n\nAccommodate and respond with initiative to changing priorities and operating environments"
+  },
+  {
+    "id": "capability-15-adept",
+    "capabilityName": "Procurement and Contract Management - Adept",
+    "capabilityDesc": "Apply legal, policy and organisational guidelines and procedures relating to procurement and contract management \n\nDevelop well-written, well-structured procurement documentation that clearly sets out the business requirements \n\nMonitor procurement and contract management processes to ensure they are open, transparent and competitive \n\nBe aware of procurement and contract management risks, and actions to manage or mitigate risk in monitoring contract performance \n\nEvaluate tenders and select providers in an objective and rigorous way, in line with established guidelines and principles \n\nEscalate procurement and contract management issues, where required"
+  },
+  {
+    "id": "capability-15-advanced",
+    "capabilityName": "Procurement and Contract Management - Advanced",
+    "capabilityDesc": "Ensure that employees and contractors apply government and organisational procurement and contract management policies\n\nMonitor procurement and contract management risks and ensure that this informs contract development, management and procurement decisions\n\nPromote effective risk management in procurement\n\nImplement effective governance arrangements to monitor provider, supplier and contractor performance against contracted deliverables and outcomes \n\nRepresent the organisation in resolving complex or sensitive disputes with providers, suppliers and contractors"
+  },
+  {
+    "id": "capability-15-foundational",
+    "capabilityName": "Procurement and Contract Management - Foundational",
+    "capabilityDesc": "Comply with basic ordering, receipting and payment processes\n\nApply basic checking and quality- control processes to activities that support procurement and contract management \n\nUnderstand probity principles relating to purchasing"
+  },
+  {
+    "id": "capability-15-highlyadvanced",
+    "capabilityName": "Procurement and Contract Management - Highly Advanced",
+    "capabilityDesc": "Ensure that whole-of-government approaches to procurement and contract management are integrated into the organisation’s policies and practices \n\nEnsure that effective governance processes are in place for the organisation’s provider, supplier and contractor management, tendering, procurement and contracting policies, processes and outcomes \n\nMonitor and evaluate compliance and the effectiveness of procurement and contract management within the organisation"
+  },
+  {
+    "id": "capability-15-intermediate",
+    "capabilityName": "Procurement and Contract Management - Intermediate",
+    "capabilityDesc": "Understand and comply with legal, policy and organisational guidelines and procedures relating to purchasing \n\nConduct delegated purchasing activities in line with procedures \n\nWork with providers, suppliers and contractors to ensure that outcomes are delivered in line with time and quality requirements"
+  },
+  {
+    "id": "capability-16-adept",
+    "capabilityName": "Project Management - Adept",
+    "capabilityDesc": "Understand all components of the project management process, including the need to consider change management to realise business benefits\n\nPrepare clear project proposals and accurate estimates of required costs and resources\n\nEstablish performance outcomes and measures for key project goals, and define monitoring, reporting and communication requirements\n\nIdentify and evaluate risks associated with the project and develop mitigation strategies\n\nIdentify and consult stakeholders to inform the project strategy\n\nCommunicate the project’s objectives and its expected benefits\n\nMonitor the completion of project milestones against goals and take necessary action\n\nEvaluate progress and identify improvements to inform future projects"
+  },
+  {
+    "id": "capability-16-advanced",
+    "capabilityName": "Project Management - Advanced",
+    "capabilityDesc": "Prepare and review project scope and business cases for projects with multiple interdependencies\n\nAccess key subject-matter experts’ knowledge to inform project plans and directions\n\nDesign and implement effective stakeholder engagement and communications strategies for all project stages\n\nMonitor project completion and implement effective and rigorous project evaluation methodologies to inform future planning\n\nDevelop effective strategies to remedy variances from project plans and minimise impact\n\nManage transitions between project stages and ensure that changes are consistent with organisational goals \n\nParticipate in governance processes such as project steering groups"
+  },
+  {
+    "id": "capability-16-foundational",
+    "capabilityName": "Project Management - Foundational",
+    "capabilityDesc": "Understand project goals, steps to be undertaken and expected outcomes\n\nPlan and deliver tasks in line with agreed project milestones and timeframes\n\nCheck progress against agreed milestones and timeframes, and seek help to overcome barriers \n\nParticipate in planning and provide feedback on progress and potential improvements to project processes"
+  },
+  {
+    "id": "capability-16-highlyadvanced",
+    "capabilityName": "Project Management - Highly Advanced",
+    "capabilityDesc": "Ensure there are systems and effective governance processes in place for project management \nMake decisions on accepting projects based on business cases \n\nUse the historical, political and broader context to inform project directions and mitigate risk \n\nObtain key stakeholders’ commitment to major project strategies, including cross-organisational initiatives, and ensure ongoing communication \n\nEnsure that project risks are managed effectively, and appropriate strategies are in place to respond to variances \n\nDrive the changes required to realise the business benefits of the project \n\nEnsure that project management decisions consider interdependencies between projects"
+  },
+  {
+    "id": "capability-16-intermediate",
+    "capabilityName": "Project Management - Intermediate",
+    "capabilityDesc": "Perform basic research and analysis to inform and support the achievement of project deliverables\n\nContribute to developing project documentation and resource estimates\n\nContribute to reviews of progress, outcomes and future improvements\n\nIdentify and escalate possible variances from project plans"
+  },
+  {
+    "id": "capability-17-adept",
+    "capabilityName": "Technology - Adept",
+    "capabilityDesc": "Identify opportunities to  use a broad range of technologies to collaborate\n\nMonitor compliance with cyber security and the use of technology policies\n\nIdentify ways to maximise the value of available technology to achieve business strategies and outcomes \n\nMonitor compliance  with the organisation’s records, information and knowledge management requirements"
+  },
+  {
+    "id": "capability-17-advanced",
+    "capabilityName": "Technology - Advanced",
+    "capabilityDesc": "Champion the use of innovative technologies in the workplace \n\nActively manage risk to ensure compliance with cyber security and acceptable use of technology policies \n\nKeep up to date with emerging technologies and technology trends to understand how their application can support business outcomes \n\nSeek advice from appropriate subject-matter experts on using technologies to achieve business strategies and outcomes \n\nActively manage risk of breaches to appropriate records, information and knowledge management systems, protocols and policies"
+  },
+  {
+    "id": "capability-17-foundational",
+    "capabilityName": "Technology - Foundational",
+    "capabilityDesc": "Display familiarity and confidence when applying technology used in role\n\nComply with records, communication and document control policies \n\nComply with policies on the acceptable use of technology, including cyber security"
+  },
+  {
+    "id": "capability-17-highlyadvanced",
+    "capabilityName": "Technology - Highly Advanced",
+    "capabilityDesc": "Support research and expert advice on the application of emerging technologies to achieve organisational outcomes \n\nEnsure that effective governance frameworks are in place to efficiently and effectively apply technology within the organisation \n\nEstablish effective governance to ensure organisational compliance with cyber security and acceptable use of technology policies \n\nCritically assess business cases supporting the introduction of technology to improve the organisation’s efficiency and effectiveness \n\nEnsure that effective policy and procedures are in place for records, information and knowledge management to meet government and organisational requirements"
+  },
+  {
+    "id": "capability-17-intermediate",
+    "capabilityName": "Technology - Intermediate",
+    "capabilityDesc": "Demonstrate a sound understanding of technology relevant to the work unit, and identify and select the most appropriate technology for assigned tasks \n\nUse available technology to improve individual performance and effectiveness \n\nMake effective use of records, information and knowledge management functions and systems \n\nSupport the implementation of systems improvement initiatives, and the introduction and roll-out of new technologies"
+  },
+  {
+    "id": "capability-18-adept",
+    "capabilityName": "Think and Solve Problems - Adept",
+    "capabilityDesc": "Research and apply critical- thinking techniques in analysing information, identify interrelationships and make recommendations based on relevant evidence\n\nAnticipate, identify and address issues and potential problems that may have an impact on organisational objectives and the user experience\n\nApply creative-thinking techniques to generate new ideas and options to address issues and improve the user experience\n\nSeek contributions and ideas from people with diverse backgrounds and experience\n\nParticipate in and contribute to team or unit initiatives to resolve common issues or barriers to effectiveness\n\nIdentify and share business process improvements to enhance effectiveness"
+  },
+  {
+    "id": "capability-18-advanced",
+    "capabilityName": "Think and Solve Problems - Advanced",
+    "capabilityDesc": "Undertake objective, critical analysis to draw accurate conclusions that recognise and manage contextual issues\n\nWork through issues, weigh up alternatives and identify the most effective solutions in collaboration with others\n\nTake account of the wider business context when considering options to resolve issues\n\nExplore a range of possibilities and creative alternatives to contribute to system, process and business improvements\n\nImplement systems and processes that are underpinned by high- quality research and analysis\n\nLook for opportunities to design innovative solutions to meet user needs and service demands \n\nEvaluate the performance and effectiveness of services, policies and programs against clear criteria"
+  },
+  {
+    "id": "capability-18-foundational",
+    "capabilityName": "Think and Solve Problems - Foundational",
+    "capabilityDesc": "Ask questions to explore and understand issues and problems\n\nFind and check information needed to complete own work tasks\n\nIdentify and inform supervisor of issues that may have an impact on completing tasks\n\nEscalate more complex issues and problems when these are identified\n\nShare ideas about ways to improve work tasks and solve problems \n\nConsider user needs when contributing to solutions and improvements"
+  },
+  {
+    "id": "capability-18-highlyadvanced",
+    "capabilityName": "Think and Solve Problems - Highly Advanced",
+    "capabilityDesc": "Establish and promote a culture that encourages innovation and initiative and emphasises the value of continuous improvement \n\nEngage in high-level critical analysis of a wide range of complex information and formulate effective responses to critical policy issues \n\nIdentify and evaluate organisation-wide implications when considering proposed solutions to issues \n\nApply lateral thinking and develop innovative solutions that have a long-lasting, organisation-wide impact \n\nEnsure effective governance systems are in place to guarantee quality analysis, research and reform"
+  },
+  {
+    "id": "capability-18-intermediate",
+    "capabilityName": "Think and Solve Problems - Intermediate",
+    "capabilityDesc": "Identify the facts and type of data needed to understand a problem or explore an opportunity\n\nResearch and analyse information to make recommendations based on relevant evidence\n\nIdentify issues that may hinder the completion of tasks and find appropriate solutions\n\nBe willing to seek input from others and share own ideas to achieve best outcomes\n\nGenerate ideas and identify ways to improve systems and processes to meet user needs"
+  },
+  {
+    "id": "capability-19-adept",
+    "capabilityName": "Value Diversity and Inclusion - Adept",
+    "capabilityDesc": "Promote the value of diversity and inclusive practices for the organisation, customers and stakeholders\n\nDemonstrate cultural sensitivity, and engage with and integrate the views of others\n\nLook for practical ways to resolve any barriers to including people from diverse cultures, backgrounds and experiences\n\nRecognise and adapt to individual abilities, differences and working styles\n\nSupport initiatives that create a safe and equitable workplace and culture in which differences are valued\n\nRecognise and manage bias in interactions and decision making"
+  },
+  {
+    "id": "capability-19-advanced",
+    "capabilityName": "Value Diversity and Inclusion - Advanced",
+    "capabilityDesc": "Encourage and include diverse perspectives in the development of policies and strategies\n\nTake advantage of diverse views and perspectives to develop new approaches to delivering outcomes\n\nBuild and monitor a workplace culture that enables diversity and fair and inclusive practices\n\nImplement practices and systems to ensure that individuals can participate to their fullest ability\n\nRecognise the value of individual differences to support broader organisational strategies\n\nAddress non-inclusive behaviours, practices and attitudes within the organisation\n\nChampion the business benefits generated by workforce diversity and inclusive practices"
+  },
+  {
+    "id": "capability-19-foundational",
+    "capabilityName": "Value Diversity and Inclusion - Foundational",
+    "capabilityDesc": "Acknowledge and respect diverse cultures, backgrounds, experiences, perspectives, values and beliefs\n\nSeek and understand the contributions and perspectives of others\n\nBe aware of own personal values and biases that may affect others\n\nContribute to a supportive and safe working environment"
+  },
+  {
+    "id": "capability-19-highlyadvanced",
+    "capabilityName": "Value Diversity and Inclusion - Highly Advanced",
+    "capabilityDesc": "Create and drive a culture where all staff practice inclusion and value the diversity of people, experiences and backgrounds\n\nTake advantage of a diverse and inclusive workplace to foster innovation, drive change across the organisation and deliver business outcomes\n\nDrive the design of equitable workplace systems, policies and practices that enable individuals to contribute to their fullest ability\n\nInspire others to become inclusive leaders by modelling inclusive behaviours in everyday actions"
+  },
+  {
+    "id": "capability-19-intermediate",
+    "capabilityName": "Value Diversity and Inclusion - Intermediate",
+    "capabilityDesc": "Be responsive to diverse cultures, backgrounds, experiences, perspectives, values and beliefs\n\nSeek participation from others who may have different backgrounds, perspectives and needs\n\nBe open to different perspectives and experiences in generating ideas and solving problems\n\nAdapt well in diverse environments \n\nRespond constructively to feedback regarding observations of bias in language or behaviour"
+  },
+  {
+    "id": "capability-20-adept",
+    "capabilityName": "Work Collaboratively - Adept",
+    "capabilityDesc": "Encourage a culture that recognises the value of collaboration \n\nBuild cooperation and overcome barriers to information sharing and communication across teams and units \n\nShare lessons learned across teams and units \n\nIdentify opportunities to leverage the strengths of others to solve issues and develop better processes and approaches to work \n\nActively use collaboration tools, including digital technologies, to engage diverse audiences in solving problems and improving services"
+  },
+  {
+    "id": "capability-20-advanced",
+    "capabilityName": "Work Collaboratively - Advanced",
+    "capabilityDesc": "Recognise outcomes achieved through effective collaboration between teams \n\nBuild cooperation and overcome barriers to information sharing, communication and collaboration across the organisation and across government \n\nFacilitate opportunities to engage and collaborate with stakeholders to develop joint solutions \n\nNetwork extensively across government and organisations to increase collaboration \n\nEncourage others to use appropriate collaboration approaches and tools, including digital technologies"
+  },
+  {
+    "id": "capability-20-foundational",
+    "capabilityName": "Work Collaboratively - Foundational",
+    "capabilityDesc": "Work as a supportive and cooperative team member, sharing information and acknowledging others’ efforts \n\nRespond to others who need clarification or guidance on the job \n\nStep in to help others when workloads are high \n\nKeep the team and supervisor informed of work tasks \n\nUse appropriate approaches, including digital technologies, to share information and collaborate with others"
+  },
+  {
+    "id": "capability-20-highlyadvanced",
+    "capabilityName": "Work Collaboratively - Highly Advanced",
+    "capabilityDesc": "Establish a culture and supporting systems that facilitate information sharing, communication and learning across the sector \n\nPublicly celebrate the successful outcomes of collaboration \n\nSeek out and facilitate opportunities to engage and collaborate with stakeholders to develop solutions across the organisation, government and other jurisdictions \n\nIdentify and overcome barriers to collaboration with internal and external stakeholders"
+  },
+  {
+    "id": "capability-20-intermediate",
+    "capabilityName": "Work Collaboratively - Intermediate",
+    "capabilityDesc": "Build a supportive and cooperative team environment \n\nShare information and learning across teams \n\nAcknowledge outcomes that were achieved by effective collaboration \n\nEngage other teams and units to share information and jointly solve issues and problems \n\nSupport others in challenging situations \n\nUse collaboration tools, including digital technologies, to work with others"
+  }
+]

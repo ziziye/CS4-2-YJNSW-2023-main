@@ -1,0 +1,112 @@
+[
+  {
+    "id": "goal-1",
+    "goalType": "performance",
+    "goalSubtype": "goal-subtype-1"
+  },
+  {
+    "id": "goal-2",
+    "goalType": "development",
+    "goalSubtype": "goal-subtype-3"
+  },
+  {
+    "id": "goal-3",
+    "goalType": "capability",
+    "goalSubtype": "goal-subtype-4"
+  },
+  {
+    "id": "goal-4",
+    "goalType": "capability",
+    "goalSubtype": "goal-subtype-5"
+  },
+  {
+    "id": "goal-5",
+    "goalType": "capability",
+    "goalSubtype": "goal-subtype-6"
+  },
+  {
+    "id": "goal-6",
+    "goalType": "capability",
+    "goalSubtype": "goal-subtype-7"
+  },
+  {
+    "id": "goal-7",
+    "goalType": "capability",
+    "goalSubtype": "goal-subtype-8"
+  },
+  {
+    "id": "goal-8",
+    "goalType": "seventy",
+    "goalSubtype": "goal-subtype-4"
+  },
+  {
+    "id": "goal-9",
+    "goalType": "twenty",
+    "goalSubtype": "goal-subtype-4"
+  },
+  {
+    "id": "goal-10",
+    "goalType": "ten",
+    "goalSubtype": "goal-subtype-4"
+  },
+  {
+    "id": "goal-11",
+    "goalType": "seventy",
+    "goalSubtype": "goal-subtype-5"
+  },
+  {
+    "id": "goal-12",
+    "goalType": "twenty",
+    "goalSubtype": "goal-subtype-5"
+  },
+  {
+    "id": "goal-13",
+    "goalType": "ten",
+    "goalSubtype": "goal-subtype-5"
+  },
+  {
+    "id": "goal-14",
+    "goalType": "seventy",
+    "goalSubtype": "goal-subtype-6"
+  },
+  {
+    "id": "goal-15",
+    "goalType": "twenty",
+    "goalSubtype": "goal-subtype-6"
+  },
+  {
+    "id": "goal-16",
+    "goalType": "ten",
+    "goalSubtype": "goal-subtype-6"
+  },
+  {
+    "id": "goal-17",
+    "goalType": "seventy",
+    "goalSubtype": "goal-subtype-7"
+  },
+  {
+    "id": "goal-18",
+    "goalType": "twenty",
+    "goalSubtype": "goal-subtype-7"
+  },
+  {
+    "id": "goal-19",
+    "goalType": "ten",
+    "goalSubtype": "goal-subtype-7"
+  },
+  {
+    "id": "goal-20",
+    "goalType": "seventy",
+    "goalSubtype": "goal-subtype-8"
+  },
+  {
+    "id": "goal-21",
+    "goalType": "twenty",
+    "goalSubtype": "goal-subtype-8"
+  },
+  {
+    "id": "goal-22",
+    "goalType": "ten",
+    "goalSubtype": "goal-subtype-8"
+  }
+]

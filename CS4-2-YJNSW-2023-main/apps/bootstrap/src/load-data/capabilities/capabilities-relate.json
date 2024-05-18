@@ -1,0 +1,502 @@
+[
+  {
+    "id": "capability-1-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-1-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-1-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-1-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-1-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-2-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-2-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-2-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-2-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-2-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-3-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-3-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-3-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-3-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-3-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-4-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-4-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-4-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-4-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-4-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-5-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-5-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-5-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-5-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-5-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-6-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-6-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-6-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-6-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-6-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-7-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-7-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-7-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-7-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-7-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-8-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-8-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-8-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-8-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-8-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-9-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-9-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-9-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-9-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-9-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-10-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-10-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-10-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-10-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-10-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-11-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-11-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-11-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-11-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-11-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-12-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-12-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-12-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-12-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-12-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-13-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-13-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-13-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-13-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-13-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "people-management"
+  },
+  {
+    "id": "capability-14-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-14-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-14-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-14-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-14-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-15-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-15-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-15-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-15-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-15-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-16-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-16-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-16-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-16-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-16-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-17-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-17-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-17-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-17-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-17-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "demonstrate-accountability"
+  },
+  {
+    "id": "capability-18-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-18-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-18-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-18-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-18-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "results"
+  },
+  {
+    "id": "capability-19-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-19-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-19-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-19-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-19-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "personal-attributes"
+  },
+  {
+    "id": "capability-20-adept",
+    "capabilityLevel": "adept",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-20-advanced",
+    "capabilityLevel": "advanced",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-20-foundational",
+    "capabilityLevel": "foundational",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-20-highlyadvanced",
+    "capabilityLevel": "highlyadvanced",
+    "capabilityType": "relationships"
+  },
+  {
+    "id": "capability-20-intermediate",
+    "capabilityLevel": "intermediate",
+    "capabilityType": "relationships"
+  }
+]

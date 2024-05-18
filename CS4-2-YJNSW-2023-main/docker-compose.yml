@@ -1,0 +1,39 @@
+services:
+  yj-cms:
+    container_name: yj-cms
+    image: node:16
+    user: node
+    working_dir: "/workdir/apps/cms"
+    command: ["npx", "strapi", "develop"]
+    volumes:
+      - ${PROJECT_PATH}:/workdir
+    ports:
+      - "1337:1337"
+
+  yj-web:
+    container_name: yj-web
+    image: node:16-alpine
+    user: node
+    working_dir: "/workdir/apps/web"
+    command: ["npm", "run", "start"]
+    volumes:
+      - ${PROJECT_PATH}:/workdir
+    ports:
+      - "3000:3000"
+
+  yj-stubs:
+    container_name: yj-stubs
+    image: node:16-alpine
+    user: node
+    working_dir: "/workdir/apps/stubs"
+    command: ["npm", "run", "start"]
+    volumes:
+      - ${PROJECT_PATH}:/workdir
+    ports:
+      - "7443:7443"
+      - "8882:8882"
+      - "8889:8889"
+
+networks:
+  default:
+    name: yj-nw

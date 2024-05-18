@@ -1,0 +1,20 @@
+{
+  "name": "e2e",
+  "version": "0.1.0",
+  "description": "e2e integration tests",
+  "author": "cs4-2",
+  "license": "UNLICENSED",
+  "scripts": {
+    "open": "cypress open",
+    "run": "cypress run",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix"
+  },
+  "devDependencies": {
+    "cypress": "^9.5.3",
+    "eslint": "^8.12.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-cypress": "^2.12.1",
+    "eslint-plugin-prettier": "^4.0.0"
+  }
+}

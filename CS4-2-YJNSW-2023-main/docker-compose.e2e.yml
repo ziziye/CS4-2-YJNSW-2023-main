@@ -1,0 +1,16 @@
+services:
+  yj-e2e:
+    container_name: yj-e2e
+    image: cypress/included:9.5.3
+    depends_on:
+      - yj-web
+    environment:
+      - CYPRESS_baseUrl=http://yj-web:3000
+    entrypoint: "./scripts/wait-for-it.sh -t 240 yj-web:3000 -- cypress run"
+    working_dir: /workdir/apps/e2e
+    volumes:
+      - ${PROJECT_PATH}:/workdir
+
+networks:
+  default:
+    name: yj-nw

@@ -1,0 +1,1050 @@
+[
+  {
+    "id": "job-role-1",
+    "roleName": "Aboriginal Practice Officer",
+    "shortDesc": "Collaborate with internal stakeholders to develop and plan the regional co-ordination and implementation of cultural programs and initiatives that compliment interventions for Aboriginal and Torres Strait Islander young people.",
+    "longDesc": "Collaborate with internal stakeholders to develop and plan the regional co-ordination and implementation of cultural programs and initiatives that compliment interventions for Aboriginal and Torres Strait Islander young people.  \nFacilitate the identification of and access to people and resources, to enhance effective practice with Aboriginal and Torres Strait Islander young people involved in the justice system. ",
+    "isIdentified": "True",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-10",
+    "roleName": "Assistant Communications Officer",
+    "shortDesc": "Produce, or facilitate the production of, communications content across a variety of formats to deliver the department's marketing and communications strategy.",
+    "longDesc": "Produce, or facilitate the production of, communications content across a variety of formats to deliver the department's marketing and communications strategy. To promote the policy priorities of the department to inform and influence staff and the community and uphold the department\u2019s reputation among key stakeholders.",
+    "isIdentified": "False",
+    "grade": "5/6"
+  },
+  {
+    "id": "job-role-100",
+    "roleName": "Senior Policy and Projects Officer",
+    "shortDesc": "Develop, manage, and implement innovative policies and programs within the Division to support and improve service delivery for young people in contact with the criminal justice system.",
+    "longDesc": "Develop, manage, and implement innovative policies and programs within the Division to support and improve service delivery for young people in contact with the criminal justice system. Provide specialist policy advice and high level analysis on issues and strategies. ",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-101",
+    "roleName": "Senior Practice Officer",
+    "shortDesc": "Provide high level advice to Regional Directors on all issues relating to program delivery.",
+    "longDesc": "Provide high level advice to Regional Directors on all issues relating to program delivery. Facilitate the implementation of a comprehensive and effective suite of accredited and approved programs and practice. Monitor program and practice integrity data for quality, refinement and/or change.\n\nEstablish and drive ongoing consistent program and practice delivery throughout the region in close liaison with colleagues. ",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-102",
+    "roleName": "Senior Practice Officer (CVE)",
+    "shortDesc": "Provide high level advice to the Director on all issues relating to program delivery.",
+    "longDesc": "Provide high level advice to the Director on all issues relating to program delivery. Facilitate the implementation of a comprehensive and effective suite of accredited and approved programs and practice. Monitor program and practice integrity data for quality, refinement and/or change. Establish and drive ongoing consistent program and practice delivery throughout",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-103",
+    "roleName": "Senior Practice Officer (Information)",
+    "shortDesc": "Develop, manage and implement a range of policies, procedures and projects within /across the Division, to support and improve management of the Division\u2019s information.",
+    "longDesc": "Develop, manage and implement a range of policies, procedures and projects within /across the Division, to support and improve management of the Division\u2019s information.\nProcess and assist in managing applications under Government Information (Public Access) Act 2009 (GIPA) and the Privacy and Personal Information Protection Act 1998 (PPIPA) including open data and subpoena work and other work in relation to the provision of the Division\u2019s information. ",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-104",
+    "roleName": "Senior Project Officer",
+    "shortDesc": "Review, develop, manage and implement a range of comprehensive projects, policies and practices for the Youth Justice Division to support and monitor effective service delivery.",
+    "longDesc": "Review, develop, manage and implement a range of comprehensive projects, policies and practices for the Youth Justice Division to support and monitor effective service delivery.\nThe role is accountable for the leadership and implementation of corporate and strategic research projects, and the provision of policy advice and consultancy services to Youth Justice senior management teams and other client groups. These projects result in reports that assist senior management with decisions in relation to corporate direction, management, budgeting, and operational service delivery.",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-105",
+    "roleName": "Senior Project Officer (Corporate Affairs)",
+    "shortDesc": "Provide high-level advice and assistance to the Executive Director Youth Justice and the Director, Strategy and Engagement to ensure seamless communication with the Minister\u2019s Office and to prepare information, briefings and reports to inform the parliamentary process.",
+    "longDesc": "Provide high-level advice and assistance to the Executive Director Youth Justice and the Director, Strategy and Engagement to ensure seamless communication with the Minister\u2019s Office and to prepare information, briefings and reports to inform the parliamentary process.\nUndertake the management of key strategic projects within Strategy and Engagement for a range of corporate activities and provide high level support for key committees, including the Youth Justice Executive Leadership Team. Additionally, provide support to the Executive Director to prepare briefs, reports and other strategic documentation for the division. ",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-106",
+    "roleName": "Senior Project Officer (CST)",
+    "shortDesc": "The Senior Project Officer manages and coordinates the development, implementation and evaluation of complex projects to achieve project outcomes and support the achievement of organisational objectives.",
+    "longDesc": "The Senior Project Officer manages and coordinates the development, implementation and evaluation of complex projects to achieve project outcomes and support the achievement of organisational objectives.",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-107",
+    "roleName": "Senior Project Officer (Operations)",
+    "shortDesc": "Develop, manage and implement a range of projects to build capability in Youth Justice staff to deliver evidence based and innovative programs and interventions.",
+    "longDesc": "Develop, manage and implement a range of projects to build capability in Youth Justice staff to deliver evidence based and innovative programs and interventions. To research and develop resources for Youth Justice staff and funded agencies based on what works principles and best practice to reduce risks of young people reoffending. ",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-108",
+    "roleName": "Senior Project Officer (Practice)",
+    "shortDesc": "Develop, manage and implement a range of projects to build capability in Youth Justice staff to deliver evidence based and innovative programs and interventions.",
+    "longDesc": "Develop, manage and implement a range of projects to build capability in Youth Justice staff to deliver evidence based and innovative programs and interventions. To research and develop resources for Youth Justice staff and funded agencies based on what works principles and best practice to reduce risks of young people reoffending. ",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-109",
+    "roleName": "Senior Project Officer OED",
+    "shortDesc": "Develop, manage and implement a range of projects within the Office of the Executive Director and Youth Justice, to support and improve service delivery.",
+    "longDesc": "Develop, manage and implement a range of projects within the Office of the Executive Director and Youth Justice, to support and improve service delivery.",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-11",
+    "roleName": "Assistant Manager, Centre",
+    "shortDesc": "The Assistant Manager, Centre is responsible for managing the delivery of client services of the youth justice centre on a day-to-day basis to ensure the needs of young people sentenced, or on remand, are met within a safe and secure therapeutic setting in accordance with relevant legislation.",
+    "longDesc": "The Assistant Manager, Centre is responsible for managing the delivery of client services of the youth justice centre on a day-to-day basis to ensure the needs of young people sentenced, or on remand, are met within a safe and secure therapeutic setting in accordance with relevant legislation. \nThe role manages a team of staff to deliver centre programs across client services, counselling, WHS, building environment, response equipment and operational security and ensures compliance with policy, procedure and relevant legislation.",
+    "isIdentified": "False",
+    "grade": "8/9"
+  },
+  {
+    "id": "job-role-110",
+    "roleName": "Senior Research & Information Officer",
+    "shortDesc": "Develop, manage and implement a range of policies, procedures and projects within /across the Division, to support and improve management of the Division\u2019s information.",
+    "longDesc": "Develop, manage and implement a range of policies, procedures and projects within /across the Division, to support and improve management of the Division\u2019s information.\nProcess and assist in managing applications under Government Information (Public Access) Act 2009 (GIPA) and the Privacy and Personal Information Protection Act 1998 (PPIPA) including open data and subpoena work and other work in relation to the provision of the Division\u2019s information. ",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-111",
+    "roleName": "Senior Strategic Engagement Officer",
+    "shortDesc": "Provide high-level advice and assistance to the Executive Director Youth Justice and the Director, Strategy and Engagement to ensure seamless two-way communication between the Executive Leadership Team,  staff and other key stakeholders; and support Youth Justice wide staff engagement initiatives.",
+    "longDesc": "Provide high-level advice and assistance to the Executive Director Youth Justice and the Director, Strategy and Engagement to ensure seamless two-way communication between the Executive Leadership Team,  staff and other key stakeholders; and support Youth Justice wide staff engagement initiatives.\nUndertake the development and management of key strategic communication and engagement projects within the Strategy and Engagement Directorate for a range of corporate activities and provide high level support for Youth Justice\u2019s key external stakeholder committee, the Youth Justice Advisory Committee. Additionally, prepare multi-channel and multi-media communications, including the ED Blog, Jigsaw (staff newsletter) and video messaging on a regular and timely basis and to appeal to a variety of audiences. ",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-112",
+    "roleName": "Service Delivery Analyst (Community)",
+    "shortDesc": "Ensure the Directorate\u2019s delivery of high quality services that meet legislative, regulatory, policy and procedural requirements and direct resource allocation to enable all locations to operate at an optimal level.",
+    "longDesc": "Ensure the Directorate\u2019s delivery of high quality services that meet legislative, regulatory, policy and procedural requirements and direct resource allocation to enable all locations to operate at an optimal level.\nProvide expert advice to the Community Director by performing reviews that monitor compliance and contribute to effective risk management.",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-113",
+    "roleName": "Services Assistant",
+    "shortDesc": "Provide high-quality support services to the Youth Justice Central Office leadership team.",
+    "longDesc": "Provide high-quality support services to the Youth Justice Central Office leadership team.",
+    "isIdentified": "False",
+    "grade": "5/6"
+  },
+  {
+    "id": "job-role-114",
+    "roleName": "Services Officer",
+    "shortDesc": "Provide high-quality support services to the Central Office leadership team.",
+    "longDesc": "Provide high-quality support services to the Central Office leadership team. Develop and implement efficient and effective work practices and procedures to optimise the delivery of high-quality support services.",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-115",
+    "roleName": "Sessional Supervisor",
+    "shortDesc": "Directly supervise young offenders on Community Service Orders (CSO\u2019s) imposed by the Courts and assist with case management, ensuring appropriate and timely implementation and successful completion.",
+    "longDesc": "Directly supervise young offenders on Community Service Orders (CSO\u2019s) imposed by the Courts and assist with case management, ensuring appropriate and timely implementation and successful completion.",
+    "isIdentified": "False",
+    "grade": "2"
+  },
+  {
+    "id": "job-role-116",
+    "roleName": "Shift Supervisor",
+    "shortDesc": "Coordinate, supervise and direct the work of Youth Officers across the Centre to ensure that daily routines, admissions and discharges, security, casework and program attendance to ensure the appropriate care and custody of youth, safety of staff and consistent application of the unit program, in accordance with legislation, policies and procedures and deal with issues and risks as they arise.",
+    "longDesc": "Coordinate, supervise and direct the work of Youth Officers across the Centre to ensure that daily routines, admissions and discharges, security, casework and program attendance to ensure the appropriate care and custody of youth, safety of staff and consistent application of the unit program, in accordance with legislation, policies and procedures and deal with issues and risks as they arise.",
+    "isIdentified": "False",
+    "grade": "4/5"
+  },
+  {
+    "id": "job-role-117",
+    "roleName": "Shift Supervisor (Identified)",
+    "shortDesc": "Coordinate, supervise and direct the work of Youth Officers across the Centre to ensure that daily routines, admissions and discharges, security, casework and program attendance to ensure the appropriate care and custody of youth, safety of staff and consistent application of the unit program, in accordance with legislation, policies and procedures and deal with issues and risks as they arise.",
+    "longDesc": "Coordinate, supervise and direct the work of Youth Officers across the Centre to ensure that daily routines, admissions and discharges, security, casework and program attendance to ensure the appropriate care and custody of youth, safety of staff and consistent application of the unit program, in accordance with legislation, policies and procedures and deal with issues and risks as they arise.",
+    "isIdentified": "True",
+    "grade": "4/5"
+  },
+  {
+    "id": "job-role-118",
+    "roleName": "Speech Therapist",
+    "shortDesc": "Provide speech pathology assessment, consultation, therapeutic interventions and professional services within a multidisciplinary team to support children and young people, their families or carers.",
+    "longDesc": "Provide speech pathology assessment, consultation, therapeutic interventions and professional services within a multidisciplinary team to support children and young people, their families or carers.",
+    "isIdentified": "False",
+    "grade": "3/7"
+  },
+  {
+    "id": "job-role-119",
+    "roleName": "Team Leader BAL",
+    "shortDesc": "Supervise the operation of the Bail Assistance Line (BAL) and of the Bail Coordinators in the provision of a range of bail intervention options for young people across the state, in order to minimise the number of young people entering custody/reduce the numbers in custody.",
+    "longDesc": "Supervise the operation of the Bail Assistance Line (BAL) and of the Bail Coordinators in the provision of a range of bail intervention options for young people across the state, in order to minimise the number of young people entering custody/reduce the numbers in custody.",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-12",
+    "roleName": "Assistant Manager, Community Office",
+    "shortDesc": "Manage a multidisciplinary team providing service/program delivery that aims to the reduce re-offending of juvenile offenders and enhance their functioning and/or reintegration into the community, and increase community safety.",
+    "longDesc": "Manage a multidisciplinary team providing service/program delivery that aims to the reduce re-offending of juvenile offenders and enhance their functioning and/or reintegration into the community, and increase community safety.",
+    "isIdentified": "False",
+    "grade": "8/9"
+  },
+  {
+    "id": "job-role-120",
+    "roleName": "Team Leader Court Operations",
+    "shortDesc": "Manage, direct and roster the work of a team providing direct appropriate care and custody of detainees appearing at various courts and the safety of staff during detainee movements.",
+    "longDesc": "Manage, direct and roster the work of a team providing direct appropriate care and custody of detainees appearing at various courts and the safety of staff during detainee movements.",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-121",
+    "roleName": "Time and Attendance Coordinator",
+    "shortDesc": "Manage all aspects of the time and attendance and rostering functions, ensuring that rosters accurately adhere to centre staffing specifications and reflect the needs of the centre in consultation with centre management.",
+    "longDesc": "Manage all aspects of the time and attendance and rostering functions, ensuring that rosters accurately adhere to centre staffing specifications and reflect the needs of the centre in consultation with centre management.",
+    "isIdentified": "False",
+    "grade": "4/5"
+  },
+  {
+    "id": "job-role-122",
+    "roleName": "Training and Development Officer",
+    "shortDesc": "Plan, develop, implement, deliver, monitor and assess quality training and development programs for staff across the region within Youth Justice Centres and Community Offices",
+    "longDesc": "Plan, develop, implement, deliver, monitor and assess quality training and development programs for staff across the region within Youth Justice Centres and Community Offices",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-123",
+    "roleName": "Training Centre Administration Officer, Yasmar",
+    "shortDesc": "Provide high level administrative and clerical support including, quality reception services and assistance with projects, research and analysis to support the operation of the Yasmar Training Centre and its state-wide training operations including the operation of the Learning Management System.",
+    "longDesc": "Provide high level administrative and clerical support including, quality reception services and assistance with projects, research and analysis to support the operation of the Yasmar Training Centre and its state-wide training operations including the operation of the Learning Management System.",
+    "isIdentified": "False",
+    "grade": "3/4"
+  },
+  {
+    "id": "job-role-124",
+    "roleName": "Training Development Advisor, Yasmar",
+    "shortDesc": "Deliver, monitor and assess quality training and development programs for staff in specific locations to supplement the resources of the Organisation Development and Training Unit\u2019s custodial team.",
+    "longDesc": "Deliver, monitor and assess quality training and development programs for staff in specific locations to supplement the resources of the Organisation Development and Training Unit\u2019s custodial team.",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-125",
+    "roleName": "Unit Manager",
+    "shortDesc": "Direct and manage a multidisciplinary team to ensure appropriate care and custody of detainees and safety of staff in accordance with relevant legislation.",
+    "longDesc": "Direct and manage a multidisciplinary team to ensure appropriate care and custody of detainees and safety of staff in accordance with relevant legislation.  Takes on the role of Duty Manager on a rotation basis and is responsible, in this role, for the centre wide supervision of Assistant Unit Managers and Shift Supervisors. ",
+    "isIdentified": "False",
+    "grade": "6/7"
+  },
+  {
+    "id": "job-role-126",
+    "roleName": "Unit Manager (Identified)",
+    "shortDesc": "Direct and manage a multidisciplinary team to ensure appropriate care and custody of detainees and safety of staff in accordance with relevant legislation.",
+    "longDesc": "Direct and manage a multidisciplinary team to ensure appropriate care and custody of detainees and safety of staff in accordance with relevant legislation.  Takes on the role of Duty Manager on a rotation basis and is responsible, in this role, for the centre wide supervision of Assistant Unit Managers and Shift Supervisors. ",
+    "isIdentified": "True",
+    "grade": "6/7"
+  },
+  {
+    "id": "job-role-127",
+    "roleName": "VI Cook",
+    "shortDesc": "Order, store, produce and distribute nutritious meals for all young people and frontline staff in an efficient manner.",
+    "longDesc": "Order, store, produce and distribute nutritious meals for all young people and frontline staff in an efficient manner. This includes adhering to Hazard Analysis and Critical Control Points (HACCP) Australia and Work Health and Safety (WHS) standards and guidelines",
+    "isIdentified": "False",
+    "grade": "1/3"
+  },
+  {
+    "id": "job-role-128",
+    "roleName": "VI Cook Supervisor",
+    "shortDesc": "Assist with program planning, guidance, direction and training to the participants of the program, involving supervising a small team in the development and delivery of vocational programs for detainees in custody within the Centre, to equip each detainee for future employment and in accordance with the units program and aims, objectives and procedures.",
+    "longDesc": "Assist with program planning, guidance, direction and training to the participants of the program, involving supervising a small team in the development and delivery of vocational programs for detainees in custody within the Centre, to equip each detainee for future employment and in accordance with the units program and aims, objectives and procedures.",
+    "isIdentified": "False",
+    "grade": "4"
+  },
+  {
+    "id": "job-role-129",
+    "roleName": "Vocational Instructor",
+    "shortDesc": "Develop and deliver vocational programs for young persons in custody within Youth Justice Centres.",
+    "longDesc": "Develop and deliver vocational programs for young persons in custody within Youth Justice Centres. \nEach program should be industry based to equip each young person for future employment. These programs should be in accordance with the units program and reflect its aims, objectives and procedures.",
+    "isIdentified": "False",
+    "grade": "1/3"
+  },
+  {
+    "id": "job-role-13",
+    "roleName": "Assistant Manager, Community Office (Identified)",
+    "shortDesc": "Manage a multidisciplinary team providing service/program delivery that aims to the reduce re-offending of juvenile offenders and enhance their functioning and/or reintegration into the community, and increase community safety.",
+    "longDesc": "Manage a multidisciplinary team providing service/program delivery that aims to the reduce re-offending of juvenile offenders and enhance their functioning and/or reintegration into the community, and increase community safety.",
+    "isIdentified": "True",
+    "grade": "8/9"
+  },
+  {
+    "id": "job-role-130",
+    "roleName": "Youth Officer",
+    "shortDesc": "Youth Officers provide direct supervision and daily care to young people in custody.",
+    "longDesc": "Youth Officers provide direct supervision and daily care to young people in custody. They work as part of a team to encourage young people to make positive changes to their behaviour and build their skills to reduce their risk of reoffending. This is achieved through pro-social modelling and motivating young people to participate in day to day activities. These include educational, vocational, recreational and therapeutic programs which are guided by individual case plans. Youth Officers assess risk and respond to challenging behaviours to maintain a safe workplace in accordance with legislation, and Youth Justice\u2019s policies and procedures.",
+    "isIdentified": "False",
+    "grade": "1/3"
+  },
+  {
+    "id": "job-role-131",
+    "roleName": "Youth Officer (Identified)",
+    "shortDesc": "Youth Officers provide direct supervision and daily care to young people in custody.",
+    "longDesc": "Youth Officers provide direct supervision and daily care to young people in custody. They work as part of a team to encourage young people to make positive changes to their behaviour and build their skills to reduce their risk of reoffending. This is achieved through pro-social modelling and motivating young people to participate in day to day activities. These include educational, vocational, recreational and therapeutic programs which are guided by individual case plans. Youth Officers assess risk and respond to challenging behaviours to maintain a safe workplace in accordance with legislation, and Youth Justice\u2019s policies and procedures.",
+    "isIdentified": "True",
+    "grade": "1/3"
+  },
+  {
+    "id": "job-role-14",
+    "roleName": "Bail Coordinator",
+    "shortDesc": "To provide a range of bail intervention options for clients across the State in order to reduce numbers in custody.",
+    "longDesc": "To provide a range of bail intervention options for clients across the State in order to reduce numbers in custody.",
+    "isIdentified": "False",
+    "grade": "5/6"
+  },
+  {
+    "id": "job-role-15",
+    "roleName": "Business Program Support Officer",
+    "shortDesc": "Provide high-quality business program support through the development and implementation of efficient and effective work practices and procedures to support staff and managers of the Youth Justice Central Office staff.",
+    "longDesc": "Provide high-quality business program support through the development and implementation of efficient and effective work practices and procedures to support staff and managers of the Youth Justice Central Office staff.",
+    "isIdentified": "False",
+    "grade": "5/6"
+  },
+  {
+    "id": "job-role-16",
+    "roleName": "Caseworker Community ",
+    "shortDesc": "Provide front line services to young people at a Youth Justice Centre or Community Office.",
+    "longDesc": "Provide front line services to young people at a Youth Justice Centre or Community Office. This involves providing a range of quality externally and internally sourced services to detainees, youth justice conferencing clients, victims of crime and court mandated young people and their families. The JJ caseworker is part of a multi-disciplined team that aims to reduce re-offending of young people, enhance their functioning and support reintegration into their families and the community.",
+    "isIdentified": "False",
+    "grade": "6/7"
+  },
+  {
+    "id": "job-role-17",
+    "roleName": "Caseworker Community (Identified)",
+    "shortDesc": "Provide front line services to young people at a Youth Justice Centre or Community Office.",
+    "longDesc": "Provide front line services to young people at a Youth Justice Centre or Community Office. This involves providing a range of quality externally and internally sourced services to detainees, youth justice conferencing clients, victims of crime and court mandated young people and their families. The JJ caseworker is part of a multi-disciplined team that aims to reduce re-offending of young people, enhance their functioning and support reintegration into their families and the community.",
+    "isIdentified": "True",
+    "grade": "6/7"
+  },
+  {
+    "id": "job-role-18",
+    "roleName": "Caseworker Custody",
+    "shortDesc": "Provide front line services to young people at a Youth Justice Centre or Community Office.",
+    "longDesc": "Provide front line services to young people at a Youth Justice Centre or Community Office. This involves providing a range of quality externally and internally sourced services to detainees, youth justice conferencing clients, victims of crime and court mandated young people and their families. The JJ caseworker is part of a multi-disciplined team that aims to reduce re-offending of young people, enhance their functioning and support reintegration into their families and the community.",
+    "isIdentified": "False",
+    "grade": "6/7"
+  },
+  {
+    "id": "job-role-19",
+    "roleName": "Caseworker Custody (Identified)",
+    "shortDesc": "Provide front line services to young people at a Youth Justice Centre or Community Office.",
+    "longDesc": "Provide front line services to young people at a Youth Justice Centre or Community Office. This involves providing a range of quality externally and internally sourced services to detainees, youth justice conferencing clients, victims of crime and court mandated young people and their families. The JJ caseworker is part of a multi-disciplined team that aims to reduce re-offending of young people, enhance their functioning and support reintegration into their families and the community.",
+    "isIdentified": "True",
+    "grade": "6/7"
+  },
+  {
+    "id": "job-role-2",
+    "roleName": "Aboriginal Principal Project Officer (Commissioning and Planning)",
+    "shortDesc": "The Principal Project Officer leads and manages projects to develop, deliver, monitor and evaluate a portfolio of strategic funded services to improve the supply and effectiveness of funded services to young people in contact with the criminal justice system, with a strong focus on delivering services that are trauma-informed and culturally safe for all young people.",
+    "longDesc": "The Principal Project Officer leads and manages projects to develop, deliver, monitor and evaluate a portfolio of strategic funded services to improve the supply and effectiveness of funded services to young people in contact with the criminal justice system, with a strong focus on delivering services that are trauma-informed and culturally safe for all young people. ",
+    "isIdentified": "True",
+    "grade": "11/12"
+  },
+  {
+    "id": "job-role-20",
+    "roleName": "Centre Manager",
+    "shortDesc": "The Centre Manager is responsible for the operational functioning of the youth justice centre on a day-to-day basis to ensure the needs of children and young people sentenced, or on remand, are met within a safe and secure therapeutic setting in accordance with relevant legislation.",
+    "longDesc": "The Centre Manager is responsible for the operational functioning of the youth justice centre on a day-to-day basis to ensure the needs of children and young people sentenced, or on remand, are met within a safe and secure therapeutic setting in accordance with relevant legislation. \nReporting directly to the Director, Custodial Operations and in consultation with internal partners, the centre manager will develop, implement and monitor consistent practices and routines that deliver best practice standards and address the underlying causes of offending behaviour by increasing young offender completion rates in key treatment and intervention programs.",
+    "isIdentified": "False",
+    "grade": "12"
+  },
+  {
+    "id": "job-role-21",
+    "roleName": "Classification Officer",
+    "shortDesc": "Manage the classification and review processes within youth detention centres, maintaining integrity of classification of detainees in accordance with legislative and policy requirements.",
+    "longDesc": "Manage the classification and review processes within youth detention centres, maintaining integrity of classification of detainees in accordance with legislative and policy requirements.\nProvide advice to the management and staff regarding procedures relating to classification and placement. ",
+    "isIdentified": "False",
+    "grade": "5/6"
+  },
+  {
+    "id": "job-role-22",
+    "roleName": "Conference Convenor",
+    "shortDesc": "The Conference Convenor is a statutory appointee responsible for the preparation and facilitation of youth justice conferences in local communities with young people, victims, support people, police and others affected by the offence.",
+    "longDesc": "The Conference Convenor is a statutory appointee responsible for the preparation and facilitation of youth justice conferences in local communities with young people, victims, support people, police and others affected by the offence. The roles and responsibilities of this role are governed by the Young Offenders Act 1997 and YJNSW Policies and Procedures. ",
+    "isIdentified": "False",
+    "grade": "3"
+  },
+  {
+    "id": "job-role-23",
+    "roleName": "Coordinator Casual Resourcing & Development",
+    "shortDesc": "Provide expert advice to centre staff for activities relating to casual youth worker recruitment and management in order to maximise the utilisation of casual youth workers across the Metropolitan area through centralised co-ordination.",
+    "longDesc": "Provide expert advice to centre staff for activities relating to casual youth worker recruitment and management in order to maximise the utilisation of casual youth workers across the Metropolitan area through centralised co-ordination.\nThe role also ensures that casual youth workers meet the capabilities of their role through assessments, supervision and training.",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-24",
+    "roleName": "Coordinator Classification",
+    "shortDesc": "Coordinate the work of and provide leadership to a team of Classification Officers geographically dispersed across the state ensuring the accuracy and integrity of the agency\u2019s Objective Detainee Classification System.",
+    "longDesc": "Coordinate the work of and provide leadership to a team of Classification Officers geographically dispersed across the state ensuring the accuracy and integrity of the agency\u2019s Objective Detainee Classification System. ",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-25",
+    "roleName": "Coordinator Court Logistics & Admin",
+    "shortDesc": "Manage various key areas across the Unit including the oversight of the Court Logistics Operations Centre and resource allocation to service courts, human resource administration, budget management, procurement, workers compensation, data collection, analysis and reporting, video conferencing and fleet vehicle management.",
+    "longDesc": "Manage various key areas across the Unit including the oversight of the Court Logistics Operations Centre and resource allocation to service courts, human resource administration, budget management, procurement, workers compensation, data collection, analysis and reporting, video conferencing and fleet vehicle management.",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-26",
+    "roleName": "Coordinator Intelligence Operations",
+    "shortDesc": "Directs the day to day operations of the Intelligence section within the Security and Intelligence Unit (S&I), including supporting agency operations through the proactive collection, collation, analysis and dissemination of accurate and relevant intelligence.",
+    "longDesc": "Directs the day to day operations of the Intelligence section within the Security and Intelligence Unit (S&I), including supporting agency operations through the proactive collection, collation, analysis and dissemination of accurate and relevant intelligence.  Liaise with operational staff and other organisations to ensure a cooperative approach to the production of intelligence to contribute to effective safety and security within the Centres and assist in the management of young person\u2019s on community based orders. ",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-27",
+    "roleName": "Coordinator Quality Assurance",
+    "shortDesc": "Lead, develop and coordinate the implementation of the state-wide operational quality assurance (QA) framework for Youth Justice NSW for a systematic and standardised oversight of custody and community functions.",
+    "longDesc": "Lead, develop and coordinate the implementation of the state-wide operational quality assurance (QA) framework for Youth Justice NSW for a systematic and standardised oversight of custody and community functions.",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-28",
+    "roleName": "Coordinator Security Operations",
+    "shortDesc": "Manages the functions of the Security Operations team within the Security and Intelligence Unit(S&I), including supporting agency operations through collection, collation, analysis and dissemination of accurate and relevant security information managing Drug Detection Dog operations, and urinalysis testing.",
+    "longDesc": "Manages the functions of the Security Operations team within the Security and Intelligence Unit(S&I), including supporting agency operations through collection, collation, analysis and dissemination of accurate and relevant security information managing Drug Detection Dog operations, and urinalysis testing. Liaise with operational staff and other organisations to ensure a cooperative approach to maintenance of security within Centres. ",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-29",
+    "roleName": "Coordinator Youth on Track",
+    "shortDesc": "Provide high level policy advice and manage and coordinate the development and review of policies, plans and projects on issues of corporate and strategic significance to contribute to Departmental and whole-of-government initiatives.",
+    "longDesc": "Provide high level policy advice and manage and coordinate the development and review of policies, plans and projects on issues of corporate and strategic significance to contribute to Departmental and whole-of-government initiatives. ",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-3",
+    "roleName": "Aboriginal Project Officer",
+    "shortDesc": "Manage and implement a range of projects for the Aboriginal Strategic Coordination Unit to contribute to the effective operation and strategic direction and implementation of Youth Justice Aboriginal Strategic Direction (ASD).",
+    "longDesc": "Manage and implement a range of projects for the Aboriginal Strategic Coordination Unit to contribute to the effective operation and strategic direction and implementation of Youth Justice Aboriginal Strategic Direction (ASD).",
+    "isIdentified": "True",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-30",
+    "roleName": "Counsellor",
+    "shortDesc": "Provide counseling, case management and therapeutic intervention services to young people in Youth Justice centres.",
+    "longDesc": "Provide counseling, case management and therapeutic intervention services to young people in Youth Justice centres. This includes the provision of consultancy service to staff in centres, e.g., custodial staff, reintegration planning, crisis support, facilitation of groups and case conferences.\nAssist staff in Youth Justice Community Services and Youth Justice Centres through the development of behaviour management plans and delivery of programs to minimise the re-offending of juveniles and enhance their functioning in and/or reintegration into the community.",
+    "isIdentified": "False",
+    "grade": "6/7"
+  },
+  {
+    "id": "job-role-31",
+    "roleName": "Court Supervisor",
+    "shortDesc": "Supervise, direct and roster the work of a team of Youth officers providing direct appropriate care and custody of detainees appearing at various courts and the safety of staff during detainee movements.",
+    "longDesc": "Supervise, direct and roster the work of a team of Youth officers providing direct appropriate care and custody of detainees appearing at various courts and the safety of staff during detainee movements.",
+    "isIdentified": "False",
+    "grade": "4/5"
+  },
+  {
+    "id": "job-role-32",
+    "roleName": "Cultural Manager (Identified)",
+    "shortDesc": "Oversee the development of Cultural Plans for young people, facilitate cultural engagement workshops and programs, and support the cultural welfare needs of staff and young people in custody.",
+    "longDesc": "Oversee the development of Cultural Plans for young people, facilitate cultural engagement workshops and programs, and support the cultural welfare needs of staff and young people in custody. While the role works primarily with Aboriginal young people and staff, it is also responsible for ensuring the cultural needs of young people with other cultural backgrounds are met. The role consults and engages with Youth Justice staff and managers, the Department of Communities and Justice, external organisations and community groups. ",
+    "isIdentified": "True",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-33",
+    "roleName": "Drug Detection K9 Handler",
+    "shortDesc": "In accordance with legislative guidelines, provide a proactive approach, reactive response and static security at Youth Justice Centres throughout NSW in the detection, prevention and identification of illegal substances.",
+    "longDesc": "In accordance with legislative guidelines, provide a proactive approach, reactive response and static security at Youth Justice Centres throughout NSW in the detection, prevention and identification of illegal substances.",
+    "isIdentified": "False",
+    "grade": "4/5"
+  },
+  {
+    "id": "job-role-34",
+    "roleName": "Drug Detection Sec and Intel Officer",
+    "shortDesc": "0",
+    "longDesc": "0",
+    "isIdentified": "False",
+    "grade": "1/3"
+  },
+  {
+    "id": "job-role-35",
+    "roleName": "Executive Support Officer OED",
+    "shortDesc": "Provide executive and organisational support to the Division Head to enable the effective operation of their    office and its associated executive and management functions in the delivery of business operations.",
+    "longDesc": "Provide executive and organisational support to the Division Head to enable the effective operation of their    office and its associated executive and management functions in the delivery of business operations.",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-36",
+    "roleName": "Field Intelligence Officer",
+    "shortDesc": "The role ensures the timely, accurate and relevant exchange of information between the Security & Intelligence Unit (S&I) and the Youth Justice Centre (YJC).",
+    "longDesc": "The role ensures the timely, accurate and relevant exchange of information between the Security & Intelligence Unit (S&I) and the Youth Justice Centre (YJC). This includes the provision of support to the Centre Manager by ensuring they are briefed on local intelligence and security issues. ",
+    "isIdentified": "False",
+    "grade": "5/6"
+  },
+  {
+    "id": "job-role-37",
+    "roleName": "Head of Media & Communications",
+    "shortDesc": "Coordinate the provision of high-level advice and assistance to the Director, on the Division\u2019s corporate and business planning, communications and media affairs.",
+    "longDesc": "Coordinate the provision of high-level advice and assistance to the Director, on the Division\u2019s corporate and business planning, communications and media affairs. Brief the Executive Director and leadership team on emerging issues and provide strategic direction and management of government and state priorities.\nDevelop high level strategic directions in external and internal corporate communication approaches including maintaining and promoting a positive image of the Division. Manage, direct and maintain high quality communications and external relations function for the Agency. ",
+    "isIdentified": "False",
+    "grade": "11/12"
+  },
+  {
+    "id": "job-role-38",
+    "roleName": "Information and Research Coordinator",
+    "shortDesc": "Provide high level, research and analysis of records and information processing whilst providing, a quality client service to internal and external stakeholders",
+    "longDesc": "Provide high level, research and analysis of records and information processing whilst providing, a quality client service to internal and external stakeholders",
+    "isIdentified": "False",
+    "grade": "5/6"
+  },
+  {
+    "id": "job-role-39",
+    "roleName": "Information Support Officer",
+    "shortDesc": "Provide high level, competent administrative, clerical and information processing support including, quality client service and undertaking projects and research.",
+    "longDesc": "Provide high level, competent administrative, clerical and information processing support including, quality client service and undertaking projects and research.",
+    "isIdentified": "False",
+    "grade": "3/4"
+  },
+  {
+    "id": "job-role-4",
+    "roleName": "Aboriginal Senior Project Officer (ASCU)",
+    "shortDesc": "Develop, manage and implement projects to support the implementation of key strategies under the Aboriginal Strategic Direction (ASD) and help deliver on commitments in the Aboriginal Strategic Coordination Unit business plan.",
+    "longDesc": "Develop, manage and implement projects to support the implementation of key strategies under the Aboriginal Strategic Direction (ASD) and help deliver on commitments in the Aboriginal Strategic Coordination Unit business plan.",
+    "isIdentified": "True",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-40",
+    "roleName": "Intelligence Analyst",
+    "shortDesc": "Provide support to Youth Justice operations through the collection, collation, analysis and dissemination of timely, accurate and relevant intelligence.",
+    "longDesc": "Provide support to Youth Justice operations through the collection, collation, analysis and dissemination of timely, accurate and relevant intelligence. ",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-41",
+    "roleName": "Intelligence Support Officer",
+    "shortDesc": "Provide high level, competent administrative, clerical and information processing support including, quality client service and undertaking projects and research.",
+    "longDesc": "Provide high level, competent administrative, clerical and information processing support including, quality client service and undertaking projects and research.",
+    "isIdentified": "False",
+    "grade": "5/6"
+  },
+  {
+    "id": "job-role-42",
+    "roleName": "Kitchen Support Officer",
+    "shortDesc": "Undertake a range of general kitchen duties, including preparation and serving of meals and assisting with maintenance and cleanliness of kitchen, dining and storage facilities to support the delivery of a high quality catering service.",
+    "longDesc": "Undertake a range of general kitchen duties, including preparation and serving of meals and assisting with maintenance and cleanliness of kitchen, dining and storage facilities to support the delivery of a high quality catering service.",
+    "isIdentified": "False",
+    "grade": "1/3"
+  },
+  {
+    "id": "job-role-43",
+    "roleName": "LMS Administration Officer",
+    "shortDesc": "Provide high level administrative and clerical support including, quality client service and assistance in undertaking projects and research and analysis to support the operation of the Yasmar Training Centre and its state-wide training operations including the operation and monitoring of the Learning Management System.",
+    "longDesc": "Provide high level administrative and clerical support including, quality client service and assistance in undertaking projects and research and analysis to support the operation of the Yasmar Training Centre and its state-wide training operations including the operation and monitoring of the Learning Management System.",
+    "isIdentified": "False",
+    "grade": "3/4"
+  },
+  {
+    "id": "job-role-44",
+    "roleName": "Logistics Officer",
+    "shortDesc": "Coordinate daily detainee movements, overseeing the effective and efficient logistical operations involving court bookings, staff shift coordination, vehicle tracking, for all metropolitan and regional court appearances, and associated reporting and recording of court results.",
+    "longDesc": "Coordinate daily detainee movements, overseeing the effective and efficient logistical operations involving court bookings, staff shift coordination, vehicle tracking, for all metropolitan and regional court appearances, and associated reporting and recording of court results. ",
+    "isIdentified": "False",
+    "grade": "5/6"
+  },
+  {
+    "id": "job-role-45",
+    "roleName": "Maintenance Officer, Yasmar",
+    "shortDesc": "Performs a range of facility related activities to support the Manager to ensure the Yasmar Training facility is managed and maintained to a high standard.",
+    "longDesc": "Performs a range of facility related activities to support the Manager to ensure the Yasmar Training facility is managed and maintained to a high standard. The role undertakes operational and administrative activities to support the provision of service delivery on a diverse range of facility management issues such as the coordinating of all building and ground maintenance for the facility, including carrying out general building and equipment repairs ensuring that equipment is functional and adhering to Work Health and Safety guidelines and preparing training rooms to support training needs and requirements.",
+    "isIdentified": "False",
+    "grade": "1"
+  },
+  {
+    "id": "job-role-46",
+    "roleName": "Manager  Operations Unit",
+    "shortDesc": "Develop and manage strategic projects, including project planning, stakeholder management, and resource negotiation, to implement evidenced based practice, building the capability of Youth Justice staff to effectively deliver intervention in line with best practice principles and contemporary research.",
+    "longDesc": "Develop and manage strategic projects, including project planning, stakeholder management, and resource negotiation, to implement evidenced based practice, building the capability of Youth Justice staff to effectively deliver intervention in line with best practice principles and contemporary research. ",
+    "isIdentified": "False",
+    "grade": "11/12"
+  },
+  {
+    "id": "job-role-47",
+    "roleName": "Manager - Strategic Projects",
+    "shortDesc": "Develop and delivery of complex strategic projects, policy initiatives, and reforms including project planning, stakeholder management, reporting, and resource negotiation, to support the overall objectives of the Division, the Department and the Government.",
+    "longDesc": "Develop and delivery of complex strategic projects, policy initiatives, and reforms including project planning, stakeholder management, reporting, and resource negotiation, to support the overall objectives of the Division, the Department and the Government.",
+    "isIdentified": "False",
+    "grade": "11/12"
+  },
+  {
+    "id": "job-role-48",
+    "roleName": "Manager (ASCU)",
+    "shortDesc": "Lead the Aboriginal Strategic Coordination Unit.",
+    "longDesc": "Lead the Aboriginal Strategic Coordination Unit. Set direction, coordinate the development and implementation of the Youth Justice Aboriginal Strategic Plan (ASP), consult and liaise with key internal and external stakeholders.",
+    "isIdentified": "True",
+    "grade": "11/12"
+  },
+  {
+    "id": "job-role-49",
+    "roleName": "Manager (BAL)",
+    "shortDesc": "Manage and deliver state wide bail services through the effective management, strategic planning, capacity building, direction, and positive development of the Bail Assistance Line (BAL) / Court Services, bail programs and funded bail services in accordance with relevant legislation, agency policies, guidelines and procedures to minimise the re-offending of juvenile offenders and enhance their functioning in and/or reintegration into the community.",
+    "longDesc": "Manage and deliver state wide bail services through the effective management, strategic planning, capacity building, direction, and positive development of the Bail Assistance Line (BAL) / Court Services, bail programs and funded bail services in accordance with relevant legislation, agency policies, guidelines and procedures to minimise the re-offending of juvenile offenders and enhance their functioning in and/or reintegration into the community. ",
+    "isIdentified": "False",
+    "grade": "11/12"
+  },
+  {
+    "id": "job-role-5",
+    "roleName": "Administration Assistant",
+    "shortDesc": "Provide administrative and reception services to internal and external clients to support the delivery of quality services for the unit.",
+    "longDesc": "Provide administrative and reception services to internal and external clients to support the delivery of quality services for the unit. As an integral part of a team the role is responsible for managing administrative systems and procedures to deliver a high level of administrative and coordination support",
+    "isIdentified": "False",
+    "grade": "1/2"
+  },
+  {
+    "id": "job-role-50",
+    "roleName": "Manager (CLCP)",
+    "shortDesc": "Manage the overall operations of the Youth Justice Court Logistics, Classification & Placements Branch.",
+    "longDesc": "Manage the overall operations of the Youth Justice Court Logistics, Classification & Placements Branch.  Operations include monitoring centre detainee numbers and populations and approve all detainee movements and placements, and the day-to-day management of the delivery of court logistics functions and detainee classifications across the state. ",
+    "isIdentified": "False",
+    "grade": "11/12"
+  },
+  {
+    "id": "job-role-51",
+    "roleName": "Manager Business Support Information Access Unit",
+    "shortDesc": "Provide expert specialist advice and leadership in the area of access to information and privacy, subpoena and statutory applications being the escalation point for complex queries and providing leadership and management of the team.",
+    "longDesc": "Provide expert specialist advice and leadership in the area of access to information and privacy, subpoena and statutory applications being the escalation point for complex queries and providing leadership and management of the team. \nLead, develop and coordinate the team handling requests for information received from DCJ Legal under the Government Information (Public Access) Act 2009 (GIPA), the Privacy and Personal Information Protection Act 1998 (PPIPA), the Health Records and Information Privacy Act 2002 (HRIPA), and under the National Redress Scheme for Institutional Child Sexual Abuse (Commonwealth Powers) Act 2018, including open data and subpoena work and other statutory applications in relation to the provision of information. ",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-52",
+    "roleName": "Manager CST",
+    "shortDesc": "Provide a broad range of business activities to contribute to the strategic direction and development of the services provided within custodial operations, undertaking research, providing detailed information, analysis and advice to the Senior Manager, Custodial Support Team.",
+    "longDesc": "Provide a broad range of business activities to contribute to the strategic direction and development of the services provided within custodial operations, undertaking research, providing detailed information, analysis and advice to the Senior Manager, Custodial Support Team.",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-53",
+    "roleName": "Manager eLearning & Records",
+    "shortDesc": "The role is the link between Youth Justice and Stronger Communities Cluster in the use of SuccessFactors.",
+    "longDesc": "The role is the link between Youth Justice and Stronger Communities Cluster in the use of SuccessFactors. It is accountable for curating and governing all the eLearning content and developing and maintaining the learning curricula for Youth Justice operational training (both community and ITAP) on the Division\u2019s Learning Management System (LMS). It also oversees / works with subject matter experts to ensure course design and content meets the required standards. \nThe role also oversees the collection and storage of all Youth Justice learning and ensures all users are provided with all required online content and all requirements for the scheduling, attendance management, records management and reporting are in place and maintained to support the Divisions operational training programs.",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-54",
+    "roleName": "Manager OD Operational Practice Yasmar",
+    "shortDesc": "Develop coaching aids to support all authorised programs and leadership training and carry out active workplace coaching and broker/ arrange / support / deliver interventions as required to achieve effective leadership in order for staff to effectively and safely perform their roles and programs / services are delivered in a manner that is professional, consistent, evidence based, trauma informed and culturally competent.",
+    "longDesc": "Develop coaching aids to support all authorised programs and leadership training and carry out active workplace coaching and broker/ arrange / support / deliver interventions as required to achieve effective leadership in order for staff to effectively and safely perform their roles and programs / services are delivered in a manner that is professional, consistent, evidence based, trauma informed and culturally competent.",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-55",
+    "roleName": "Manager ODT Comm-Cust",
+    "shortDesc": "Manage a team responsible for identifying training and development needs, formulating programs, plans and services and delivering appropriate training and development solutions across the state to enable Youth Justice staff to perform their roles safely and effectively.",
+    "longDesc": "Manage a team responsible for identifying training and development needs, formulating programs, plans and services and delivering appropriate training and development solutions across the state to enable Youth Justice staff to perform their roles safely and effectively. ",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-56",
+    "roleName": "Manager Operational Compliance",
+    "shortDesc": "Manage a range of assigned strategic Standards and Compliance projects to contribute to the development and implementation of division projects and initiatives to meet organisational objectives.",
+    "longDesc": "Manage a range of assigned strategic Standards and Compliance projects to contribute to the development and implementation of division projects and initiatives to meet organisational objectives. \n\nProvide change management advice and delivery through the project lifecycles and change initiatives to support optimal achievement of expected change outcomes.",
+    "isIdentified": "False",
+    "grade": "11/12"
+  },
+  {
+    "id": "job-role-57",
+    "roleName": "Manager Research & Information Development",
+    "shortDesc": "Lead and direct division research activities to enable evidence-based decision making in relation to division policies, programs and proposals in relation to legislation.",
+    "longDesc": "Lead and direct division research activities to enable evidence-based decision making in relation to division policies, programs and proposals in relation to legislation. Oversee the development of strategic organisational data to ensure its sufficiency and accuracy for the purposes of organisation performance monitoring, program evaluation, reporting and research.",
+    "isIdentified": "False",
+    "grade": "11/12"
+  },
+  {
+    "id": "job-role-58",
+    "roleName": "Manager Workforce Engagement",
+    "shortDesc": "Provide expert advice to the executive, Yasmar management, Centre Managers and their staff on all activities related to day to day engagement and management of Casual Youth Officers, including strategic recruitment activities, allocation of resources, training, performance and mobility of casuals to contribute to the cost effective, sustainable and ongoing improvements in efficiency and effectiveness of Youth Justice\u2019s casual workforce.",
+    "longDesc": "Provide expert advice to the executive, Yasmar management, Centre Managers and their staff on all activities related to day to day engagement and management of Casual Youth Officers, including strategic recruitment activities, allocation of resources, training, performance and mobility of casuals to contribute to the cost effective, sustainable and ongoing improvements in efficiency and effectiveness of Youth Justice\u2019s casual workforce. ",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-59",
+    "roleName": "Manager Workforce Strategy & Talent Management",
+    "shortDesc": "Provide expert advice and develop and maintain a workforce plan / model(s) that enables senior management to identify workforce issues and understand workforce patterns, inflows and outflows.",
+    "longDesc": "Provide expert advice and develop and maintain a workforce plan / model(s) that enables senior management to identify workforce issues and understand workforce patterns, inflows and outflows. Use the plan to guide recruitment decisions and other strategies to optimise labour numbers and contain / reduce labour costs (eg overtime).\nDevelop and implement a Talent Management strategy for Youth Justice focussing on development pathways for leadership roles and other specialist roles critical to sustain the Division\u2019s performance.",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-6",
+    "roleName": "Administration Assistant (Identified)",
+    "shortDesc": "Provide administrative and reception services to internal and external clients to support the delivery of quality services for the unit.",
+    "longDesc": "Provide administrative and reception services to internal and external clients to support the delivery of quality services for the unit. As an integral part of a team the role is responsible for managing administrative systems and procedures to deliver a high level of administrative and coordination support",
+    "isIdentified": "True",
+    "grade": "1/2"
+  },
+  {
+    "id": "job-role-60",
+    "roleName": "Mentor",
+    "shortDesc": "Provide community clients with the opportunity to form a positive relationship with an adult who can provide individual assistance, guidance and support to reduce offending and successfully integrate young people into the community.",
+    "longDesc": "Provide community clients with the opportunity to form a positive relationship with an adult who can provide individual assistance, guidance and support to reduce offending and successfully integrate young people into the community.\nAssist in supporting young people achieve case plan goals. In being a positive role model for young people, Mentors are matched to clients based on a list of attributes that best assist the young person in achieving the case plans that are prepared by the supervisor.",
+    "isIdentified": "False",
+    "grade": "2"
+  },
+  {
+    "id": "job-role-61",
+    "roleName": "Occupational Therapist",
+    "shortDesc": "Provide occupational therapy assessment, consultation, therapeutic interventions and professional services within a multidisciplinary team to support children and young people, their families and carers.",
+    "longDesc": "Provide occupational therapy assessment, consultation, therapeutic interventions and professional services within a multidisciplinary team to support children and young people, their families and carers. ",
+    "isIdentified": "False",
+    "grade": "1/7"
+  },
+  {
+    "id": "job-role-62",
+    "roleName": "OD Training Advisor",
+    "shortDesc": "Design and deliver quality training and development programs, particularly programs aimed at Aboriginal Young People and ensure they are a key link between the unit and Aboriginal stakeholders at all levels across the state.",
+    "longDesc": "Design and deliver quality training and development programs, particularly programs aimed at Aboriginal Young People and ensure they are a key link between the unit and Aboriginal stakeholders at all levels across the state. The role provides services, solutions and identifies training and development needs; contribute to the formulation of programs, plans & services to ensure managers and staff have the skills, tools and capabilities to perform their roles safely, professionally and with cultural competence in a child related context. ",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-63",
+    "roleName": "Office Supervisor",
+    "shortDesc": "Control and manage a range of administrative and financial activities for the centre including financial planning, budget management and analysis, reporting and forecasting, and provide senior management with high level financial advice.",
+    "longDesc": "Control and manage a range of administrative and financial activities for the centre including financial planning, budget management and analysis, reporting and forecasting, and provide senior management with high level financial advice.\nManage a small administrative team in the provision of efficient and effective services. ",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-64",
+    "roleName": "Operations Assistant",
+    "shortDesc": "To provide efficient operational and executive support to the Regional Director or Regional Executive Officer in order to facilitate the effective executive management of the Division\u2019s core operations.",
+    "longDesc": "To provide efficient operational and executive support to the Regional Director or Regional Executive Officer in order to facilitate the effective executive management of the Division\u2019s core operations.",
+    "isIdentified": "False",
+    "grade": "5/6"
+  },
+  {
+    "id": "job-role-65",
+    "roleName": "Operations Stupport Officer",
+    "shortDesc": "Coordinate administration activities for the Centre Manager, supervise administrative staff and provide reports and reviews in relation to centre administration and quality assurance issues.",
+    "longDesc": "Coordinate administration activities for the Centre Manager, supervise administrative staff and provide reports and reviews in relation to centre administration and quality assurance issues. ",
+    "isIdentified": "False",
+    "grade": "3/4"
+  },
+  {
+    "id": "job-role-66",
+    "roleName": "Organisation Development &\u00a0 Training Adv ",
+    "shortDesc": "Design and deliver quality training and development programs, services and solutions across the state; identify training and development needs; contribute to the formulation of programs, plans & services to ensure managers and staff have the skills, tools and capabilities to perform their roles safely, professionally and with cultural competence in a child related context.",
+    "longDesc": "Design and deliver quality training and development programs, services and solutions across the state; identify training and development needs; contribute to the formulation of programs, plans & services to ensure managers and staff have the skills, tools and capabilities to perform their roles safely, professionally and with cultural competence in a child related context. ",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-67",
+    "roleName": "Organisation Development &\u00a0 Training Adv (Identified)",
+    "shortDesc": "Design and deliver quality training and development programs, particularly programs aimed at Aboriginal Young People and ensure they are a key link between the unit and Aboriginal stakeholders at all levels across the state.",
+    "longDesc": "Design and deliver quality training and development programs, particularly programs aimed at Aboriginal Young People and ensure they are a key link between the unit and Aboriginal stakeholders at all levels across the state. The role provides services, solutions and identifies training and development needs; contribute to the formulation of programs, plans & services to ensure managers and staff have the skills, tools and capabilities to perform their roles safely, professionally and with cultural competence in a child related context. ",
+    "isIdentified": "True",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-68",
+    "roleName": "Organisation Development Adv Workforce Eng",
+    "shortDesc": "Assist the Manager Workforce Engagement with all activities relating day to day engagement and management of Casual Youth Officers, including strategic recruitment activities, allocation of resources, training, performance and mobility of casuals to contribute to the cost effective, sustainable and ongoing improvements in efficiency and effectiveness of Youth Justice\u2019s casual workforce.",
+    "longDesc": "Assist the Manager Workforce Engagement with all activities relating day to day engagement and management of Casual Youth Officers, including strategic recruitment activities, allocation of resources, training, performance and mobility of casuals to contribute to the cost effective, sustainable and ongoing improvements in efficiency and effectiveness of Youth Justice\u2019s casual workforce. ",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-69",
+    "roleName": "Practice Officer",
+    "shortDesc": "Support the implementation of a comprehensive and effective suite of accredited and approved programs.",
+    "longDesc": "Support the implementation of a comprehensive and effective suite of accredited and approved programs. Monitor program integrity data for quality, refinement and/or change.  Provide advice on all issues relating to program delivery to various stakeholders.\nAssist with ongoing consistent program delivery throughout the region in close liaison with colleagues.",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-7",
+    "roleName": "Administration Officer",
+    "shortDesc": "Provide high level, competent administrative and clerical support including, quality client service and undertaking projects and research.",
+    "longDesc": "Provide high level, competent administrative and clerical support including, quality client service and undertaking projects and research.",
+    "isIdentified": "False",
+    "grade": "3/4"
+  },
+  {
+    "id": "job-role-70",
+    "roleName": "Principal Project Manager Bus Supp Serv",
+    "shortDesc": "Lead and manage all staff within the Business Support Services Branch to develop, deliver, monitor and evaluate a portfolio of strategic services and projects, to achieve project outcomes, and support achievement of organisational objectives.",
+    "longDesc": "Lead and manage all staff within the Business Support Services Branch to develop, deliver, monitor and evaluate a portfolio of strategic services and projects, to achieve project outcomes, and support achievement of organisational objectives.",
+    "isIdentified": "False",
+    "grade": "11/12"
+  },
+  {
+    "id": "job-role-71",
+    "roleName": "Principal Project Officer",
+    "shortDesc": "Provide expert advice relating to the division funding programs.",
+    "longDesc": "Provide expert advice relating to the division funding programs.\n\nUndertake significant strategic initiatives and projects to build capabilities to deliver functions and services, overseeing the development and implementation of frameworks for grant/funding program administration in a complex organisation.",
+    "isIdentified": "False",
+    "grade": "11/12"
+  },
+  {
+    "id": "job-role-72",
+    "roleName": "Principal Project Officer (Strategy & Engagement)",
+    "shortDesc": "The Principal Project Officer leads and manages projects to develop, deliver, monitor and evaluate a portfolio of strategic projects, to achieve project outcomes, and support achievement of organisational reforms and objectives.",
+    "longDesc": "The Principal Project Officer leads and manages projects to develop, deliver, monitor and evaluate a portfolio of strategic projects, to achieve project outcomes, and support achievement of organisational reforms and objectives.\nThe Principal Project Officer will manage individual projects that contribute to Youth Justice NSW service delivery being rehabilitative, client focused, safe, secure and sustainable. The Principal Project Officer will prepare and oversee project plans; develop, evaluate and analyse reform proposals and provide high quality advice that informs evidence-based decision. ",
+    "isIdentified": "False",
+    "grade": "11/12"
+  },
+  {
+    "id": "job-role-73",
+    "roleName": "Principal Project Officer Countering Violent Extremism",
+    "shortDesc": "The Principal Policy Officer leads and manages the development and delivery of complex policy initiatives and reforms that meet the needs of Youth Justice in Countering Violent Extremism.",
+    "longDesc": "The Principal Policy Officer leads and manages the development and delivery of complex policy initiatives and reforms that meet the needs of Youth Justice in Countering Violent Extremism.",
+    "isIdentified": "False",
+    "grade": "11/12"
+  },
+  {
+    "id": "job-role-74",
+    "roleName": "Principal Psychologist",
+    "shortDesc": "Provide high level strategic advice to the Executive Director, Director Operational Standards & Compliance and other senior staff of the Agency relating to Psychological Services for young people who offend.",
+    "longDesc": "Provide high level strategic advice to the Executive Director, Director Operational Standards & Compliance and other senior staff of the Agency relating to Psychological Services for young people who offend. Maintain and direct standards of professional supervision for all Youth Justice Psychologists and Intensive Supervision Program staff.\nDevelop policy and procedural guidelines that reflect an integrated delivery of psychological services and programs, including therapeutic programs.",
+    "isIdentified": "False",
+    "grade": "12"
+  },
+  {
+    "id": "job-role-75",
+    "roleName": "Professional Development Psychologist ",
+    "shortDesc": "To provide clinical supervision, support, advice and training to JJ Psychologists across NSW.",
+    "longDesc": "To provide clinical supervision, support, advice and training to JJ Psychologists across NSW. Provide quality assurance so that services provided to young people are delivered to the required standard and towards the achievement of endorsed objectives.\n\n*This Role Description is to be read with the relevant conditions, characteristics and criteria included in the Crown Employees (Psychologists) Award # C7887 of 29 March 2012.",
+    "isIdentified": "False",
+    "grade": "11"
+  },
+  {
+    "id": "job-role-76",
+    "roleName": "Professional Development Psychologist (Clinical Manager)",
+    "shortDesc": "The Clinical Manager is responsible for managing and directing the work of a professional team of psychologists, and at certain centres, a speech pathologist and occupational therapist, to ensure the clinical needs of young people sentenced, or on remand, are met within a safe and secure therapeutic setting in accordance with relevant legislation.",
+    "longDesc": "The Clinical Manager is responsible for managing and directing the work of a professional team of psychologists, and at certain centres, a speech pathologist and occupational therapist, to ensure the clinical needs of young people sentenced, or on remand, are met within a safe and secure therapeutic setting in accordance with relevant legislation.\nThe role provides administrative and clinical supervision, support, advice and training to Youth Justice Psychologists. Provide quality assurance to ensure that psychological services provided to young people are delivered to the required standard and towards the achievement of endorsed objectives. The role provides psychological advice and support to operational management and other staff regarding the therapeutic needs of young people in custody. \n\n*This Role Description is to be read with the relevant conditions, characteristics and criteria included in the Crown Employees (Psychologists) Award  # C8526 Crown Employees (Psychologists) Award 8 March 2016",
+    "isIdentified": "False",
+    "grade": "11"
+  },
+  {
+    "id": "job-role-77",
+    "roleName": "Program Screening Officer",
+    "shortDesc": "Provide high quality data analysis and support in the delivery of Communities and Justice\u2019s programs by gathering, reviewing, and analysing information and data, and provide accurate and timely screening of data from multiple systems to identify and refer eligible participants to program providers.",
+    "longDesc": "Provide high quality data analysis and support in the delivery of Communities and Justice\u2019s programs by gathering, reviewing, and analysing information and data, and provide accurate and timely screening of data from multiple systems to identify and refer eligible participants to program providers.",
+    "isIdentified": "False",
+    "grade": "3/4"
+  },
+  {
+    "id": "job-role-78",
+    "roleName": "Project Manager Youth on Track",
+    "shortDesc": "Develop and manage strategic projects, including project planning, stakeholder management, and resource negotiation, to support the overall objectives of the Youth on Track scheme.",
+    "longDesc": "Develop and manage strategic projects, including project planning, stakeholder management, and resource negotiation, to support the overall objectives of the Youth on Track scheme.",
+    "isIdentified": "False",
+    "grade": "11/12"
+  },
+  {
+    "id": "job-role-79",
+    "roleName": "Project Officer",
+    "shortDesc": "Manage and implement a range of projects across the Research & Information unit, to support and improve service delivery.",
+    "longDesc": "Manage and implement a range of projects across the Research & Information unit, to support and improve service delivery.  Undertake a supporting project management role in very large and complex projects.  ",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-8",
+    "roleName": "Administration Officer, Business Support Team",
+    "shortDesc": "Provide high level, competent administrative and clerical support including, quality client service and undertaking projects and research.",
+    "longDesc": "Provide high level, competent administrative and clerical support including, quality client service and undertaking projects and research.",
+    "isIdentified": "False",
+    "grade": "3/4"
+  },
+  {
+    "id": "job-role-80",
+    "roleName": "Project Officer (ASCU)",
+    "shortDesc": "Manage and implement a range of projects for the Aboriginal Strategic Coordination Unit to contribute to the effective operation and strategic direction and implementation of Youth Justice Aboriginal Strategic Direction (ASD).",
+    "longDesc": "Manage and implement a range of projects for the Aboriginal Strategic Coordination Unit to contribute to the effective operation and strategic direction and implementation of Youth Justice Aboriginal Strategic Direction (ASD).",
+    "isIdentified": "True",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-81",
+    "roleName": "Project Officer (CST)",
+    "shortDesc": "The Project Officer performs project management and support activities to contribute to the development and delivery of a range of projects in line with established objectives.",
+    "longDesc": "The Project Officer performs project management and support activities to contribute to the development and delivery of a range of projects in line with established objectives.",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-82",
+    "roleName": "Project Officer (Operations)",
+    "shortDesc": "The Project Officer performs project management and support activities to contribute to the development and delivery of a range of projects in line with established objectives.",
+    "longDesc": "The Project Officer performs project management and support activities to contribute to the development and delivery of a range of projects in line with established objectives.",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-83",
+    "roleName": "Project Officer (QA)",
+    "shortDesc": "The Project Officer performs quality assurance/auditing project management and support activities to contribute to the development and delivery of a range of projects in line with established objectives.",
+    "longDesc": "The Project Officer performs quality assurance/auditing project management and support activities to contribute to the development and delivery of a range of projects in line with established objectives.",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-84",
+    "roleName": "Project Officer (RCU)",
+    "shortDesc": "The Project Officer performs project management and support activities to contribute to the development and delivery of a range of risk and compliance related outcomes.",
+    "longDesc": "The Project Officer performs project management and support activities to contribute to the development and delivery of a range of risk and compliance related outcomes.",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-85",
+    "roleName": "Project Officer (RIU)",
+    "shortDesc": "The Project Officer performs data extraction and statistical analysis supporting activities to contribute to the development and delivery of a range of projects in line with established objectives.",
+    "longDesc": "The Project Officer performs data extraction and statistical analysis supporting activities to contribute to the development and delivery of a range of projects in line with established objectives.",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-86",
+    "roleName": "Project Officer (Strategic Projects)",
+    "shortDesc": "The Project Officer performs project management and support activities to contribute to the development and delivery of a range of projects in line with established objectives.",
+    "longDesc": "The Project Officer performs project management and support activities to contribute to the development and delivery of a range of projects in line with established objectives.",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-87",
+    "roleName": "Project Officer (YOT)",
+    "shortDesc": "Manage and implement a range of projects that support the implementation of the Youth on Track scheme.",
+    "longDesc": "Manage and implement a range of projects that support the implementation of the Youth on Track scheme.  Undertake a supporting project management role in very large and complex projects aimed at reducing juvenile offending.  ",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-88",
+    "roleName": "Project Officer OED",
+    "shortDesc": "Manage and implement a range of projects across the Division, to support and improve service delivery.",
+    "longDesc": "Manage and implement a range of projects across the Division, to support and improve service delivery.  Undertake a supporting project management role in very large and complex projects.  ",
+    "isIdentified": "False",
+    "grade": "7/8"
+  },
+  {
+    "id": "job-role-89",
+    "roleName": "Project Support Officer",
+    "shortDesc": "Provide proficient administrative and clerical support to Director Operations Unit.",
+    "longDesc": "Provide proficient administrative and clerical support to Director Operations Unit.",
+    "isIdentified": "False",
+    "grade": "3/4"
+  },
+  {
+    "id": "job-role-9",
+    "roleName": "Area Manager",
+    "shortDesc": "Manage, plan and co-ordinate the allocation and application of resources within a large youth justice community operation to achieve the highest level of service/program delivery in accordance with relevant legislation, departmental policy, procedures and standards.",
+    "longDesc": "Manage, plan and co-ordinate the allocation and application of resources within a large youth justice community operation to achieve the highest level of service/program delivery in accordance with relevant legislation, departmental policy, procedures and standards. \nDeliver a quality service through the effective management of community based programs, youth justice conferencing scheme and funded services at the Area level within the Region. Contribute to the reduction of re-offending of juvenile offenders and enhance their functioning and/or reintegration into the community, and increase community safety. ",
+    "isIdentified": "False",
+    "grade": "11/12"
+  },
+  {
+    "id": "job-role-90",
+    "roleName": "Psychologist",
+    "shortDesc": "Provide a consultancy service to staff regarding the psychological needs of Juvenile Justice clients within custodial and community locations, as well as advice to statutory authorities.",
+    "longDesc": "Provide a consultancy service to staff regarding the psychological needs of Juvenile Justice clients within custodial and community locations, as well as advice to statutory authorities.\nOperate as a member of a multi-disciplinary team, delivering psychological assessment, intervention, and therapeutic services. ",
+    "isIdentified": "False",
+    "grade": "4/10"
+  },
+  {
+    "id": "job-role-91",
+    "roleName": "Psychologist CVE",
+    "shortDesc": "Provide a consultancy service to staff regarding the psychological needs of Youth Justice clients within custodial and community who demonstrate risk in relation to violent extremism or who are charged or convicted of terrorism related offences.",
+    "longDesc": "Provide a consultancy service to staff regarding the psychological needs of Youth Justice clients within custodial and community who demonstrate risk in relation to violent extremism or who are charged or convicted of terrorism related offences. Operate as a member of the Countering Violent Extremism (CVE) team, coordinating\u00a0psychological assessments and developing appropriate intervention options.",
+    "isIdentified": "False",
+    "grade": "4/10"
+  },
+  {
+    "id": "job-role-92",
+    "roleName": "Regional Executive Officer",
+    "shortDesc": "Provide a broad range of regional business activities to contribute to the strategic direction and development of the services provided within the Region, undertaking research, providing detailed information, analysis and advice to the Regional Director, and manage a team who provide diverse services to both the division and indigenous communities.",
+    "longDesc": "Provide a broad range of regional business activities to contribute to the strategic direction and development of the services provided within the Region, undertaking research, providing detailed information, analysis and advice to the Regional Director, and manage a team who provide diverse services to both the division and indigenous communities.",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-93",
+    "roleName": "Senior Administration Officer Custodial Support Team",
+    "shortDesc": "The Senior Administration Officer provides a broad range of administrative services and leverages extensive business unit knowledge to support the unit's program of work and facilitate the delivery of business operations.",
+    "longDesc": "The Senior Administration Officer provides a broad range of administrative services and leverages extensive business unit knowledge to support the unit's program of work and facilitate the delivery of business operations.",
+    "isIdentified": "False",
+    "grade": "5/6"
+  },
+  {
+    "id": "job-role-94",
+    "roleName": "Senior Communications & Media Officer",
+    "shortDesc": "The role is responsible for undertaking a range of communication, media relations and stakeholder engagement initiatives and projects.",
+    "longDesc": "The role is responsible for undertaking a range of communication, media relations and stakeholder engagement initiatives and projects. The aim of these activities is to support the ongoing work of Youth Justice\u2019s operations and business groups and support the Executive in internal and external communications and stakeholder management.",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-95",
+    "roleName": "Senior Coordinator (Court Operations)",
+    "shortDesc": "Co-ordinate the operational activities for the Court Logistics Unit, develop, implement and maintain best practice procedures for the safe and efficient transport, custody and court appearance of detainees.",
+    "longDesc": "Co-ordinate the operational activities for the Court Logistics Unit, develop, implement and maintain best practice procedures for the safe and efficient transport, custody and court appearance of detainees.",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-96",
+    "roleName": "Senior Intelligence Analyst (CVE)",
+    "shortDesc": "Develop and deliver a high quality intelligence capability to support security and intelligence operations and decision-making in countering violent extremism across the agency.",
+    "longDesc": "Develop and deliver a high quality intelligence capability to support security and intelligence operations and decision-making in countering violent extremism across the agency.",
+    "isIdentified": "False",
+    "grade": "9/10"
+  },
+  {
+    "id": "job-role-97",
+    "roleName": "Senior Manager CST",
+    "shortDesc": "Manage a team in the delivery of key operational, financial and administrative functions of the unit and provide high level advice to the Director, Custodial Operations in relation to custodial operations.",
+    "longDesc": "Manage a team in the delivery of key operational, financial and administrative functions of the unit and provide high level advice to the Director, Custodial Operations in relation to custodial operations.  ",
+    "isIdentified": "False",
+    "grade": "11/12"
+  },
+  {
+    "id": "job-role-98",
+    "roleName": "Senior Manager ODT Yasmar",
+    "shortDesc": "Lead a team in the planning and delivery of training and organisation development programs, services and projects to build capability within Youth Justice incorporating workforce strategy, improved on-boarding and occupational specific recruitment, evidence based reform and renewal of operational training and the ongoing development of the organisation\u2019s culture, staff, leaders and identified talent to improve the sustainability, efficiency and performance of the Division.",
+    "longDesc": "Lead a team in the planning and delivery of training and organisation development programs, services and projects to build capability within Youth Justice incorporating workforce strategy, improved on-boarding and occupational specific recruitment, evidence based reform and renewal of operational training and the ongoing development of the organisation\u2019s culture, staff, leaders and identified talent to improve the sustainability, efficiency and performance of the Division.\nManage the Yasmar Training Facility whilst prioritising delivery of training and development solutions cost effectively to all regions.",
+    "isIdentified": "False",
+    "grade": "11/12"
+  },
+  {
+    "id": "job-role-99",
+    "roleName": "Senior Manager Security Intelligence",
+    "shortDesc": "Lead and manage the operations of the Security and Intelligence Unit (S&I) to ensure strategic needs are being met including supporting agency operations through the collection, collation, analysis and dissemination of accurate and relevant intelligence.",
+    "longDesc": "Lead and manage the operations of the Security and Intelligence Unit (S&I) to ensure strategic needs are being met including supporting agency operations through the collection, collation, analysis and dissemination of accurate and relevant intelligence. Manage the Drug Detection Dog operations and urinalysis testing. \nImprove the serious/critical incident response capability of Youth Justice by coordinating and managing the training and development of staff in response procedures and leading search operations, security audits and reviews, developing centre response plans and conducting regular response exercises across centres. ",
+    "isIdentified": "False",
+    "grade": "11/12"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "goal_subtypes",
+  "info": {
+    "singularName": "goal-subtype",
+    "pluralName": "goal-subtypes",
+    "displayName": "Goal Subtype"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "goalSubtypeName": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    }
+  }
+}

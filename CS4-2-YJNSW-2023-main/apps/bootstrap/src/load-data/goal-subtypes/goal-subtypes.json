@@ -1,0 +1,34 @@
+[
+  {
+    "id": "goal-subtype-1",
+    "goalSubtypeName": "Safety and Wellbeing"
+  },
+  {
+    "id": "goal-subtype-2",
+    "goalSubtypeName": "Acting/Higher Duties"
+  },
+  {
+    "id": "goal-subtype-3",
+    "goalSubtypeName": "Staff Goal"
+  },
+  {
+    "id": "goal-subtype-4",
+    "goalSubtypeName": "Act with Integrity"
+  },
+  {
+    "id": "goal-subtype-5",
+    "goalSubtypeName": "Commit to Customer Service"
+  },
+  {
+    "id": "goal-subtype-6",
+    "goalSubtypeName": "Communicate Effectively"
+  },
+  {
+    "id": "goal-subtype-7",
+    "goalSubtypeName": "Project Management"
+  },
+  {
+    "id": "goal-subtype-8",
+    "goalSubtypeName": "Think and Solve Problems"
+  }
+]

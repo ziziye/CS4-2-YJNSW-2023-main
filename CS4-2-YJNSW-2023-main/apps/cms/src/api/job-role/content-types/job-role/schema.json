@@ -1,0 +1,74 @@
+{
+  "kind": "collectionType",
+  "collectionName": "job_roles",
+  "info": {
+    "singularName": "job-role",
+    "pluralName": "job-roles",
+    "displayName": "Job Role",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "roleName": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "shortDesc": {
+      "type": "text"
+    },
+    "longDesc": {
+      "type": "text"
+    },
+    "isIdentified": {
+      "type": "boolean",
+      "required": true
+    },
+    "streams": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::stream.stream"
+    },
+    "activities": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::activity.activity"
+    },
+    "grade": {
+      "type": "string"
+    },
+    "capabilities": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::capability.capability"
+    },
+    "media": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "videos"
+      ]
+    },
+    "mediaPDF": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "files"
+      ]
+    },
+    "resources": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::resource.resource"
+    },
+    "isDisplay": {
+      "type": "boolean"
+    }
+  }
+}

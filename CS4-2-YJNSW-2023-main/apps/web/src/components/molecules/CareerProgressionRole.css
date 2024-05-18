@@ -1,0 +1,30 @@
+.nsw-side-nav .nsw-card a {
+  font-weight: bold;
+  display: block;
+  text-decoration: none;
+  color: var(--nsw-text-dark);
+  padding: 0;
+}
+
+.nsw-side-nav .nsw-card a:hover {
+  color: var(--nsw-text-light);
+}
+
+.scroll-nav {
+  overflow-y: scroll;
+  height: 400px;
+  padding: 15px;
+}
+
+.scroll-nav .nsw-card {
+  height: 155px;
+}
+
+.shortDescSize {
+  height: 150px;
+}
+
+.nsw-side-nav__header a {
+  padding: 0;
+  cursor: pointer;
+}

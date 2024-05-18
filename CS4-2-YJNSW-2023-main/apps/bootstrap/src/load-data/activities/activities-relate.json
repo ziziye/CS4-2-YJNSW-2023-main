@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "activity-1",
+    "activityType": "workplace_70",
+    "capability": "capability-1-adept"
+  },
+  {
+    "id": "activity-2",
+    "activityType": "workplace_70",
+    "capability": "capability-1-advanced"
+  },
+  {
+    "id": "activity-3",
+    "activityType": "workplace_70",
+    "capability": "capability-1-foundational"
+  },
+  {
+    "id": "activity-4",
+    "activityType": "workplace_70",
+    "capability": "capability-1-highlyadvanced"
+  },
+  {
+    "id": "activity-5",
+    "activityType": "workplace_70",
+    "capability": "capability-1-intermediate"
+  },
+  {
+    "id": "activity-6",
+    "activityType": "workplace_70",
+    "capability": "capability-2-adept"
+  },
+  {
+    "id": "activity-7",
+    "activityType": "workplace_70",
+    "capability": "capability-2-advanced"
+  },
+  {
+    "id": "activity-8",
+    "activityType": "workplace_70",
+    "capability": "capability-2-foundational"
+  },
+  {
+    "id": "activity-9",
+    "activityType": "workplace_70",
+    "capability": "capability-2-highlyadvanced"
+  },
+  {
+    "id": "activity-10",
+    "activityType": "workplace_70",
+    "capability": "capability-2-intermediate"
+  },
+  {
+    "id": "activity-11",
+    "activityType": "workplace_70",
+    "capability": "capability-3-adept"
+  },
+  {
+    "id": "activity-12",
+    "activityType": "workplace_70",
+    "capability": "capability-3-advanced"
+  },
+  {
+    "id": "activity-13",
+    "activityType": "workplace_70",
+    "capability": "capability-3-foundational"
+  },
+  {
+    "id": "activity-14",
+    "activityType": "workplace_70",
+    "capability": "capability-3-highlyadvanced"
+  },
+  {
+    "id": "activity-15",
+    "activityType": "workplace_70",
+    "capability": "capability-3-intermediate"
+  },
+  {
+    "id": "activity-16",
+    "activityType": "workplace_70",
+    "capability": "capability-4-adept"
+  },
+  {
+    "id": "activity-17",
+    "activityType": "workplace_70",
+    "capability": "capability-4-advanced"
+  },
+  {
+    "id": "activity-18",
+    "activityType": "workplace_70",
+    "capability": "capability-4-foundational"
+  },
+  {
+    "id": "activity-19",
+    "activityType": "workplace_70",
+    "capability": "capability-4-highlyadvanced"
+  },
+  {
+    "id": "activity-20",
+    "activityType": "workplace_70",
+    "capability": "capability-4-intermediate"
+  },
+  {
+    "id": "activity-21",
+    "activityType": "workplace_70",
+    "capability": "capability-5-adept"
+  },
+  {
+    "id": "activity-22",
+    "activityType": "workplace_70",
+    "capability": "capability-5-advanced"
+  },
+  {
+    "id": "activity-23",
+    "activityType": "workplace_70",
+    "capability": "capability-5-foundational"
+  },
+  {
+    "id": "activity-24",
+    "activityType": "workplace_70",
+    "capability": "capability-5-highlyadvanced"
+  },
+  {
+    "id": "activity-25",
+    "activityType": "workplace_70",
+    "capability": "capability-5-intermediate"
+  },
+  {
+    "id": "activity-26",
+    "activityType": "workplace_70",
+    "capability": "capability-6-adept"
+  },
+  {
+    "id": "activity-27",
+    "activityType": "workplace_70",
+    "capability": "capability-6-advanced"
+  },
+  {
+    "id": "activity-28",
+    "activityType": "workplace_70",
+    "capability": "capability-6-foundational"
+  },
+  {
+    "id": "activity-29",
+    "activityType": "workplace_70",
+    "capability": "capability-6-highlyadvanced"
+  },
+  {
+    "id": "activity-30",
+    "activityType": "workplace_70",
+    "capability": "capability-6-intermediate"
+  },
+  {
+    "id": "activity-31",
+    "activityType": "workplace_70",
+    "capability": "capability-7-adept"
+  },
+  {
+    "id": "activity-32",
+    "activityType": "workplace_70",
+    "capability": "capability-7-advanced"
+  },
+  {
+    "id": "activity-33",
+    "activityType": "workplace_70",
+    "capability": "capability-7-foundational"
+  },
+  {
+    "id": "activity-34",
+    "activityType": "workplace_70",
+    "capability": "capability-7-highlyadvanced"
+  },
+  {
+    "id": "activity-35",
+    "activityType": "workplace_70",
+    "capability": "capability-7-intermediate"
+  },
+  {
+    "id": "activity-36",
+    "activityType": "workplace_70",
+    "capability": "capability-8-adept"
+  },
+  {
+    "id": "activity-37",
+    "activityType": "workplace_70",
+    "capability": "capability-8-advanced"
+  },
+  {
+    "id": "activity-38",
+    "activityType": "workplace_70",
+    "capability": "capability-8-foundational"
+  },
+  {
+    "id": "activity-39",
+    "activityType": "workplace_70",
+    "capability": "capability-8-highlyadvanced"
+  },
+  {
+    "id": "activity-40",
+    "activityType": "workplace_70",
+    "capability": "capability-8-intermediate"
+  },
+  {
+    "id": "activity-41",
+    "activityType": "workplace_70",
+    "capability": "capability-9-adept"
+  },
+  {
+    "id": "activity-42",
+    "activityType": "workplace_70",
+    "capability": "capability-9-advanced"
+  },
+  {
+    "id": "activity-43",
+    "activityType": "workplace_70",
+    "capability": "capability-9-foundational"
+  },
+  {
+    "id": "activity-44",
+    "activityType": "workplace_70",
+    "capability": "capability-9-highlyadvanced"
+  },
+  {
+    "id": "activity-45",
+    "activityType": "workplace_70",
+    "capability": "capability-9-intermediate"
+  },
+  {
+    "id": "activity-46",
+    "activityType": "workplace_70",
+    "capability": "capability-10-adept"
+  },
+  {
+    "id": "activity-47",
+    "activityType": "workplace_70",
+    "capability": "capability-10-advanced"
+  },
+  {
+    "id": "activity-48",
+    "activityType": "workplace_70",
+    "capability": "capability-10-foundational"
+  },
+  {
+    "id": "activity-49",
+    "activityType": "workplace_70",
+    "capability": "capability-10-highlyadvanced"
+  },
+  {
+    "id": "activity-50",
+    "activityType": "workplace_70",
+    "capability": "capability-10-intermediate"
+  },
+  {
+    "id": "activity-51",
+    "activityType": "workplace_70",
+    "capability": "capability-11-adept"
+  },
+  {
+    "id": "activity-52",
+    "activityType": "workplace_70",
+    "capability": "capability-11-advanced"
+  },
+  {
+    "id": "activity-53",
+    "activityType": "workplace_70",
+    "capability": "capability-11-foundational"
+  },
+  {
+    "id": "activity-54",
+    "activityType": "workplace_70",
+    "capability": "capability-11-highlyadvanced"
+  },
+  {
+    "id": "activity-55",
+    "activityType": "workplace_70",
+    "capability": "capability-11-intermediate"
+  },
+  {
+    "id": "activity-56",
+    "activityType": "workplace_70",
+    "capability": "capability-12-adept"
+  },
+  {
+    "id": "activity-57",
+    "activityType": "workplace_70",
+    "capability": "capability-12-advanced"
+  },
+  {
+    "id": "activity-58",
+    "activityType": "workplace_70",
+    "capability": "capability-12-foundational"
+  },
+  {
+    "id": "activity-59",
+    "activityType": "workplace_70",
+    "capability": "capability-12-highlyadvanced"
+  },
+  {
+    "id": "activity-60",
+    "activityType": "workplace_70",
+    "capability": "capability-12-intermediate"
+  },
+  {
+    "id": "activity-61",
+    "activityType": "workplace_70",
+    "capability": "capability-13-adept"
+  },
+  {
+    "id": "activity-62",
+    "activityType": "workplace_70",
+    "capability": "capability-13-advanced"
+  },
+  {
+    "id": "activity-63",
+    "activityType": "workplace_70",
+    "capability": "capability-13-foundational"
+  },
+  {
+    "id": "activity-64",
+    "activityType": "workplace_70",
+    "capability": "capability-13-highlyadvanced"
+  },
+  {
+    "id": "activity-65",
+    "activityType": "workplace_70",
+    "capability": "capability-13-intermediate"
+  },
+  {
+    "id": "activity-66",
+    "activityType": "workplace_70",
+    "capability": "capability-14-adept"
+  },
+  {
+    "id": "activity-67",
+    "activityType": "workplace_70",
+    "capability": "capability-14-advanced"
+  },
+  {
+    "id": "activity-68",
+    "activityType": "workplace_70",
+    "capability": "capability-14-foundational"
+  },
+  {
+    "id": "activity-69",
+    "activityType": "workplace_70",
+    "capability": "capability-14-highlyadvanced"
+  },
+  {
+    "id": "activity-70",
+    "activityType": "workplace_70",
+    "capability": "capability-14-intermediate"
+  },
+  {
+    "id": "activity-71",
+    "activityType": "workplace_70",
+    "capability": "capability-15-adept"
+  },
+  {
+    "id": "activity-72",
+    "activityType": "workplace_70",
+    "capability": "capability-15-advanced"
+  },
+  {
+    "id": "activity-73",
+    "activityType": "workplace_70",
+    "capability": "capability-15-foundational"
+  },
+  {
+    "id": "activity-74",
+    "activityType": "workplace_70",
+    "capability": "capability-15-highlyadvanced"
+  },
+  {
+    "id": "activity-75",
+    "activityType": "workplace_70",
+    "capability": "capability-15-intermediate"
+  },
+  {
+    "id": "activity-76",
+    "activityType": "workplace_70",
+    "capability": "capability-16-adept"
+  },
+  {
+    "id": "activity-77",
+    "activityType": "workplace_70",
+    "capability": "capability-16-advanced"
+  },
+  {
+    "id": "activity-78",
+    "activityType": "workplace_70",
+    "capability": "capability-16-foundational"
+  },
+  {
+    "id": "activity-79",
+    "activityType": "workplace_70",
+    "capability": "capability-16-highlyadvanced"
+  },
+  {
+    "id": "activity-80",
+    "activityType": "workplace_70",
+    "capability": "capability-16-intermediate"
+  },
+  {
+    "id": "activity-81",
+    "activityType": "workplace_70",
+    "capability": "capability-17-adept"
+  },
+  {
+    "id": "activity-82",
+    "activityType": "workplace_70",
+    "capability": "capability-17-advanced"
+  },
+  {
+    "id": "activity-83",
+    "activityType": "workplace_70",
+    "capability": "capability-17-foundational"
+  },
+  {
+    "id": "activity-84",
+    "activityType": "workplace_70",
+    "capability": "capability-17-highlyadvanced"
+  },
+  {
+    "id": "activity-85",
+    "activityType": "workplace_70",
+    "capability": "capability-17-intermediate"
+  },
+  {
+    "id": "activity-86",
+    "activityType": "workplace_70",
+    "capability": "capability-18-adept"
+  },
+  {
+    "id": "activity-87",
+    "activityType": "workplace_70",
+    "capability": "capability-18-advanced"
+  },
+  {
+    "id": "activity-88",
+    "activityType": "workplace_70",
+    "capability": "capability-18-foundational"
+  },
+  {
+    "id": "activity-89",
+    "activityType": "workplace_70",
+    "capability": "capability-18-highlyadvanced"
+  },
+  {
+    "id": "activity-90",
+    "activityType": "workplace_70",
+    "capability": "capability-18-intermediate"
+  },
+  {
+    "id": "activity-91",
+    "activityType": "workplace_70",
+    "capability": "capability-19-adept"
+  },
+  {
+    "id": "activity-92",
+    "activityType": "workplace_70",
+    "capability": "capability-19-advanced"
+  },
+  {
+    "id": "activity-93",
+    "activityType": "workplace_70",
+    "capability": "capability-19-foundational"
+  },
+  {
+    "id": "activity-94",
+    "activityType": "workplace_70",
+    "capability": "capability-19-highlyadvanced"
+  },
+  {
+    "id": "activity-95",
+    "activityType": "workplace_70",
+    "capability": "capability-19-intermediate"
+  },
+  {
+    "id": "activity-96",
+    "activityType": "workplace_70",
+    "capability": "capability-20-adept"
+  },
+  {
+    "id": "activity-97",
+    "activityType": "workplace_70",
+    "capability": "capability-20-advanced"
+  },
+  {
+    "id": "activity-98",
+    "activityType": "workplace_70",
+    "capability": "capability-20-foundational"
+  },
+  {
+    "id": "activity-99",
+    "activityType": "workplace_70",
+    "capability": "capability-20-highlyadvanced"
+  },
+  {
+    "id": "activity-100",
+    "activityType": "workplace_70",
+    "capability": "capability-20-intermediate"
+  },
+  {
+    "id": "activity-101",
+    "activityType": "assisted_20",
+    "capability": "capability-1-adept"
+  },
+  {
+    "id": "activity-102",
+    "activityType": "assisted_20",
+    "capability": "capability-1-advanced"
+  },
+  {
+    "id": "activity-103",
+    "activityType": "assisted_20",
+    "capability": "capability-1-foundational"
+  },
+  {
+    "id": "activity-104",
+    "activityType": "assisted_20",
+    "capability": "capability-1-highlyadvanced"
+  },
+  {
+    "id": "activity-105",
+    "activityType": "assisted_20",
+    "capability": "capability-1-intermediate"
+  },
+  {
+    "id": "activity-106",
+    "activityType": "assisted_20",
+    "capability": "capability-2-adept"
+  },
+  {
+    "id": "activity-107",
+    "activityType": "assisted_20",
+    "capability": "capability-2-advanced"
+  },
+  {
+    "id": "activity-108",
+    "activityType": "assisted_20",
+    "capability": "capability-2-foundational"
+  },
+  {
+    "id": "activity-109",
+    "activityType": "assisted_20",
+    "capability": "capability-2-highlyadvanced"
+  },
+  {
+    "id": "activity-110",
+    "activityType": "assisted_20",
+    "capability": "capability-2-intermediate"
+  },
+  {
+    "id": "activity-111",
+    "activityType": "assisted_20",
+    "capability": "capability-3-adept"
+  },
+  {
+    "id": "activity-112",
+    "activityType": "assisted_20",
+    "capability": "capability-3-advanced"
+  },
+  {
+    "id": "activity-113",
+    "activityType": "assisted_20",
+    "capability": "capability-3-foundational"
+  },
+  {
+    "id": "activity-114",
+    "activityType": "assisted_20",
+    "capability": "capability-3-highlyadvanced"
+  },
+  {
+    "id": "activity-115",
+    "activityType": "assisted_20",
+    "capability": "capability-3-intermediate"
+  },
+  {
+    "id": "activity-116",
+    "activityType": "assisted_20",
+    "capability": "capability-4-adept"
+  },
+  {
+    "id": "activity-117",
+    "activityType": "assisted_20",
+    "capability": "capability-4-advanced"
+  },
+  {
+    "id": "activity-118",
+    "activityType": "assisted_20",
+    "capability": "capability-4-foundational"
+  },
+  {
+    "id": "activity-119",
+    "activityType": "assisted_20",
+    "capability": "capability-4-highlyadvanced"
+  },
+  {
+    "id": "activity-120",
+    "activityType": "assisted_20",
+    "capability": "capability-4-intermediate"
+  },
+  {
+    "id": "activity-121",
+    "activityType": "assisted_20",
+    "capability": "capability-5-adept"
+  },
+  {
+    "id": "activity-122",
+    "activityType": "assisted_20",
+    "capability": "capability-5-advanced"
+  },
+  {
+    "id": "activity-123",
+    "activityType": "assisted_20",
+    "capability": "capability-5-foundational"
+  },
+  {
+    "id": "activity-124",
+    "activityType": "assisted_20",
+    "capability": "capability-5-highlyadvanced"
+  },
+  {
+    "id": "activity-125",
+    "activityType": "assisted_20",
+    "capability": "capability-5-intermediate"
+  },
+  {
+    "id": "activity-126",
+    "activityType": "assisted_20",
+    "capability": "capability-6-adept"
+  },
+  {
+    "id": "activity-127",
+    "activityType": "assisted_20",
+    "capability": "capability-6-advanced"
+  },
+  {
+    "id": "activity-128",
+    "activityType": "assisted_20",
+    "capability": "capability-6-foundational"
+  },
+  {
+    "id": "activity-129",
+    "activityType": "assisted_20",
+    "capability": "capability-6-highlyadvanced"
+  },
+  {
+    "id": "activity-130",
+    "activityType": "assisted_20",
+    "capability": "capability-6-intermediate"
+  },
+  {
+    "id": "activity-131",
+    "activityType": "assisted_20",
+    "capability": "capability-7-adept"
+  },
+  {
+    "id": "activity-132",
+    "activityType": "assisted_20",
+    "capability": "capability-7-advanced"
+  },
+  {
+    "id": "activity-133",
+    "activityType": "assisted_20",
+    "capability": "capability-7-foundational"
+  },
+  {
+    "id": "activity-134",
+    "activityType": "assisted_20",
+    "capability": "capability-7-highlyadvanced"
+  },
+  {
+    "id": "activity-135",
+    "activityType": "assisted_20",
+    "capability": "capability-7-intermediate"
+  },
+  {
+    "id": "activity-136",
+    "activityType": "assisted_20",
+    "capability": "capability-8-adept"
+  },
+  {
+    "id": "activity-137",
+    "activityType": "assisted_20",
+    "capability": "capability-8-advanced"
+  },
+  {
+    "id": "activity-138",
+    "activityType": "assisted_20",
+    "capability": "capability-8-foundational"
+  },
+  {
+    "id": "activity-139",
+    "activityType": "assisted_20",
+    "capability": "capability-8-highlyadvanced"
+  },
+  {
+    "id": "activity-140",
+    "activityType": "assisted_20",
+    "capability": "capability-8-intermediate"
+  },
+  {
+    "id": "activity-141",
+    "activityType": "assisted_20",
+    "capability": "capability-9-adept"
+  },
+  {
+    "id": "activity-142",
+    "activityType": "assisted_20",
+    "capability": "capability-9-advanced"
+  },
+  {
+    "id": "activity-143",
+    "activityType": "assisted_20",
+    "capability": "capability-9-foundational"
+  },
+  {
+    "id": "activity-144",
+    "activityType": "assisted_20",
+    "capability": "capability-9-highlyadvanced"
+  },
+  {
+    "id": "activity-145",
+    "activityType": "assisted_20",
+    "capability": "capability-9-intermediate"
+  },
+  {
+    "id": "activity-146",
+    "activityType": "assisted_20",
+    "capability": "capability-10-adept"
+  },
+  {
+    "id": "activity-147",
+    "activityType": "assisted_20",
+    "capability": "capability-10-advanced"
+  },
+  {
+    "id": "activity-148",
+    "activityType": "assisted_20",
+    "capability": "capability-10-foundational"
+  },
+  {
+    "id": "activity-149",
+    "activityType": "assisted_20",
+    "capability": "capability-10-highlyadvanced"
+  },
+  {
+    "id": "activity-150",
+    "activityType": "assisted_20",
+    "capability": "capability-10-intermediate"
+  },
+  {
+    "id": "activity-151",
+    "activityType": "assisted_20",
+    "capability": "capability-11-adept"
+  },
+  {
+    "id": "activity-152",
+    "activityType": "assisted_20",
+    "capability": "capability-11-advanced"
+  },
+  {
+    "id": "activity-153",
+    "activityType": "assisted_20",
+    "capability": "capability-11-foundational"
+  },
+  {
+    "id": "activity-154",
+    "activityType": "assisted_20",
+    "capability": "capability-11-highlyadvanced"
+  },
+  {
+    "id": "activity-155",
+    "activityType": "assisted_20",
+    "capability": "capability-11-intermediate"
+  },
+  {
+    "id": "activity-156",
+    "activityType": "assisted_20",
+    "capability": "capability-12-adept"
+  },
+  {
+    "id": "activity-157",
+    "activityType": "assisted_20",
+    "capability": "capability-12-advanced"
+  },
+  {
+    "id": "activity-158",
+    "activityType": "assisted_20",
+    "capability": "capability-12-foundational"
+  },
+  {
+    "id": "activity-159",
+    "activityType": "assisted_20",
+    "capability": "capability-12-highlyadvanced"
+  },
+  {
+    "id": "activity-160",
+    "activityType": "assisted_20",
+    "capability": "capability-12-intermediate"
+  },
+  {
+    "id": "activity-161",
+    "activityType": "assisted_20",
+    "capability": "capability-13-adept"
+  },
+  {
+    "id": "activity-162",
+    "activityType": "assisted_20",
+    "capability": "capability-13-advanced"
+  },
+  {
+    "id": "activity-163",
+    "activityType": "assisted_20",
+    "capability": "capability-13-foundational"
+  },
+  {
+    "id": "activity-164",
+    "activityType": "assisted_20",
+    "capability": "capability-13-highlyadvanced"
+  },
+  {
+    "id": "activity-165",
+    "activityType": "assisted_20",
+    "capability": "capability-13-intermediate"
+  },
+  {
+    "id": "activity-166",
+    "activityType": "assisted_20",
+    "capability": "capability-14-adept"
+  },
+  {
+    "id": "activity-167",
+    "activityType": "assisted_20",
+    "capability": "capability-14-advanced"
+  },
+  {
+    "id": "activity-168",
+    "activityType": "assisted_20",
+    "capability": "capability-14-foundational"
+  },
+  {
+    "id": "activity-169",
+    "activityType": "assisted_20",
+    "capability": "capability-14-highlyadvanced"
+  },
+  {
+    "id": "activity-170",
+    "activityType": "assisted_20",
+    "capability": "capability-14-intermediate"
+  },
+  {
+    "id": "activity-171",
+    "activityType": "assisted_20",
+    "capability": "capability-15-adept"
+  },
+  {
+    "id": "activity-172",
+    "activityType": "assisted_20",
+    "capability": "capability-15-advanced"
+  },
+  {
+    "id": "activity-173",
+    "activityType": "assisted_20",
+    "capability": "capability-15-foundational"
+  },
+  {
+    "id": "activity-174",
+    "activityType": "assisted_20",
+    "capability": "capability-15-highlyadvanced"
+  },
+  {
+    "id": "activity-175",
+    "activityType": "assisted_20",
+    "capability": "capability-15-intermediate"
+  },
+  {
+    "id": "activity-176",
+    "activityType": "assisted_20",
+    "capability": "capability-16-adept"
+  },
+  {
+    "id": "activity-177",
+    "activityType": "assisted_20",
+    "capability": "capability-16-advanced"
+  },
+  {
+    "id": "activity-178",
+    "activityType": "assisted_20",
+    "capability": "capability-16-foundational"
+  },
+  {
+    "id": "activity-179",
+    "activityType": "assisted_20",
+    "capability": "capability-16-highlyadvanced"
+  },
+  {
+    "id": "activity-180",
+    "activityType": "assisted_20",
+    "capability": "capability-16-intermediate"
+  },
+  {
+    "id": "activity-181",
+    "activityType": "assisted_20",
+    "capability": "capability-17-adept"
+  },
+  {
+    "id": "activity-182",
+    "activityType": "assisted_20",
+    "capability": "capability-17-advanced"
+  },
+  {
+    "id": "activity-183",
+    "activityType": "assisted_20",
+    "capability": "capability-17-foundational"
+  },
+  {
+    "id": "activity-184",
+    "activityType": "assisted_20",
+    "capability": "capability-17-highlyadvanced"
+  },
+  {
+    "id": "activity-185",
+    "activityType": "assisted_20",
+    "capability": "capability-17-intermediate"
+  },
+  {
+    "id": "activity-186",
+    "activityType": "assisted_20",
+    "capability": "capability-18-adept"
+  },
+  {
+    "id": "activity-187",
+    "activityType": "assisted_20",
+    "capability": "capability-18-advanced"
+  },
+  {
+    "id": "activity-188",
+    "activityType": "assisted_20",
+    "capability": "capability-18-foundational"
+  },
+  {
+    "id": "activity-189",
+    "activityType": "assisted_20",
+    "capability": "capability-18-highlyadvanced"
+  },
+  {
+    "id": "activity-190",
+    "activityType": "assisted_20",
+    "capability": "capability-18-intermediate"
+  },
+  {
+    "id": "activity-191",
+    "activityType": "assisted_20",
+    "capability": "capability-19-adept"
+  },
+  {
+    "id": "activity-192",
+    "activityType": "assisted_20",
+    "capability": "capability-19-advanced"
+  },
+  {
+    "id": "activity-193",
+    "activityType": "assisted_20",
+    "capability": "capability-19-foundational"
+  },
+  {
+    "id": "activity-194",
+    "activityType": "assisted_20",
+    "capability": "capability-19-highlyadvanced"
+  },
+  {
+    "id": "activity-195",
+    "activityType": "assisted_20",
+    "capability": "capability-19-intermediate"
+  },
+  {
+    "id": "activity-196",
+    "activityType": "assisted_20",
+    "capability": "capability-20-adept"
+  },
+  {
+    "id": "activity-197",
+    "activityType": "assisted_20",
+    "capability": "capability-20-advanced"
+  },
+  {
+    "id": "activity-198",
+    "activityType": "assisted_20",
+    "capability": "capability-20-foundational"
+  },
+  {
+    "id": "activity-199",
+    "activityType": "assisted_20",
+    "capability": "capability-20-highlyadvanced"
+  },
+  {
+    "id": "activity-200",
+    "activityType": "assisted_20",
+    "capability": "capability-20-intermediate"
+  },
+  {
+    "id": "activity-201",
+    "activityType": "formal_10",
+    "capability": "capability-1-adept"
+  },
+  {
+    "id": "activity-202",
+    "activityType": "formal_10",
+    "capability": "capability-1-advanced"
+  },
+  {
+    "id": "activity-203",
+    "activityType": "formal_10",
+    "capability": "capability-1-foundational"
+  },
+  {
+    "id": "activity-204",
+    "activityType": "formal_10",
+    "capability": "capability-1-highlyadvanced"
+  },
+  {
+    "id": "activity-205",
+    "activityType": "formal_10",
+    "capability": "capability-1-intermediate"
+  },
+  {
+    "id": "activity-206",
+    "activityType": "formal_10",
+    "capability": "capability-2-adept"
+  },
+  {
+    "id": "activity-207",
+    "activityType": "formal_10",
+    "capability": "capability-2-advanced"
+  },
+  {
+    "id": "activity-208",
+    "activityType": "formal_10",
+    "capability": "capability-2-foundational"
+  },
+  {
+    "id": "activity-209",
+    "activityType": "formal_10",
+    "capability": "capability-2-highlyadvanced"
+  },
+  {
+    "id": "activity-210",
+    "activityType": "formal_10",
+    "capability": "capability-2-intermediate"
+  },
+  {
+    "id": "activity-211",
+    "activityType": "formal_10",
+    "capability": "capability-3-adept"
+  },
+  {
+    "id": "activity-212",
+    "activityType": "formal_10",
+    "capability": "capability-3-advanced"
+  },
+  {
+    "id": "activity-213",
+    "activityType": "formal_10",
+    "capability": "capability-3-foundational"
+  },
+  {
+    "id": "activity-214",
+    "activityType": "formal_10",
+    "capability": "capability-3-highlyadvanced"
+  },
+  {
+    "id": "activity-215",
+    "activityType": "formal_10",
+    "capability": "capability-3-intermediate"
+  },
+  {
+    "id": "activity-216",
+    "activityType": "formal_10",
+    "capability": "capability-4-adept"
+  },
+  {
+    "id": "activity-217",
+    "activityType": "formal_10",
+    "capability": "capability-4-advanced"
+  },
+  {
+    "id": "activity-218",
+    "activityType": "formal_10",
+    "capability": "capability-4-foundational"
+  },
+  {
+    "id": "activity-219",
+    "activityType": "formal_10",
+    "capability": "capability-4-highlyadvanced"
+  },
+  {
+    "id": "activity-220",
+    "activityType": "formal_10",
+    "capability": "capability-4-intermediate"
+  },
+  {
+    "id": "activity-221",
+    "activityType": "formal_10",
+    "capability": "capability-5-adept"
+  },
+  {
+    "id": "activity-222",
+    "activityType": "formal_10",
+    "capability": "capability-5-advanced"
+  },
+  {
+    "id": "activity-223",
+    "activityType": "formal_10",
+    "capability": "capability-5-foundational"
+  },
+  {
+    "id": "activity-224",
+    "activityType": "formal_10",
+    "capability": "capability-5-highlyadvanced"
+  },
+  {
+    "id": "activity-225",
+    "activityType": "formal_10",
+    "capability": "capability-5-intermediate"
+  },
+  {
+    "id": "activity-226",
+    "activityType": "formal_10",
+    "capability": "capability-6-adept"
+  },
+  {
+    "id": "activity-227",
+    "activityType": "formal_10",
+    "capability": "capability-6-advanced"
+  },
+  {
+    "id": "activity-228",
+    "activityType": "formal_10",
+    "capability": "capability-6-foundational"
+  },
+  {
+    "id": "activity-229",
+    "activityType": "formal_10",
+    "capability": "capability-6-highlyadvanced"
+  },
+  {
+    "id": "activity-230",
+    "activityType": "formal_10",
+    "capability": "capability-6-intermediate"
+  },
+  {
+    "id": "activity-231",
+    "activityType": "formal_10",
+    "capability": "capability-7-adept"
+  },
+  {
+    "id": "activity-232",
+    "activityType": "formal_10",
+    "capability": "capability-7-advanced"
+  },
+  {
+    "id": "activity-233",
+    "activityType": "formal_10",
+    "capability": "capability-7-foundational"
+  },
+  {
+    "id": "activity-234",
+    "activityType": "formal_10",
+    "capability": "capability-7-highlyadvanced"
+  },
+  {
+    "id": "activity-235",
+    "activityType": "formal_10",
+    "capability": "capability-7-intermediate"
+  },
+  {
+    "id": "activity-236",
+    "activityType": "formal_10",
+    "capability": "capability-8-adept"
+  },
+  {
+    "id": "activity-237",
+    "activityType": "formal_10",
+    "capability": "capability-8-advanced"
+  },
+  {
+    "id": "activity-238",
+    "activityType": "formal_10",
+    "capability": "capability-8-foundational"
+  },
+  {
+    "id": "activity-239",
+    "activityType": "formal_10",
+    "capability": "capability-8-highlyadvanced"
+  },
+  {
+    "id": "activity-240",
+    "activityType": "formal_10",
+    "capability": "capability-8-intermediate"
+  },
+  {
+    "id": "activity-241",
+    "activityType": "formal_10",
+    "capability": "capability-9-adept"
+  },
+  {
+    "id": "activity-242",
+    "activityType": "formal_10",
+    "capability": "capability-9-advanced"
+  },
+  {
+    "id": "activity-243",
+    "activityType": "formal_10",
+    "capability": "capability-9-foundational"
+  },
+  {
+    "id": "activity-244",
+    "activityType": "formal_10",
+    "capability": "capability-9-highlyadvanced"
+  },
+  {
+    "id": "activity-245",
+    "activityType": "formal_10",
+    "capability": "capability-9-intermediate"
+  },
+  {
+    "id": "activity-246",
+    "activityType": "formal_10",
+    "capability": "capability-10-adept"
+  },
+  {
+    "id": "activity-247",
+    "activityType": "formal_10",
+    "capability": "capability-10-advanced"
+  },
+  {
+    "id": "activity-248",
+    "activityType": "formal_10",
+    "capability": "capability-10-foundational"
+  },
+  {
+    "id": "activity-249",
+    "activityType": "formal_10",
+    "capability": "capability-10-highlyadvanced"
+  },
+  {
+    "id": "activity-250",
+    "activityType": "formal_10",
+    "capability": "capability-10-intermediate"
+  },
+  {
+    "id": "activity-251",
+    "activityType": "formal_10",
+    "capability": "capability-11-adept"
+  },
+  {
+    "id": "activity-252",
+    "activityType": "formal_10",
+    "capability": "capability-11-advanced"
+  },
+  {
+    "id": "activity-253",
+    "activityType": "formal_10",
+    "capability": "capability-11-foundational"
+  },
+  {
+    "id": "activity-254",
+    "activityType": "formal_10",
+    "capability": "capability-11-highlyadvanced"
+  },
+  {
+    "id": "activity-255",
+    "activityType": "formal_10",
+    "capability": "capability-11-intermediate"
+  },
+  {
+    "id": "activity-256",
+    "activityType": "formal_10",
+    "capability": "capability-12-adept"
+  },
+  {
+    "id": "activity-257",
+    "activityType": "formal_10",
+    "capability": "capability-12-advanced"
+  },
+  {
+    "id": "activity-258",
+    "activityType": "formal_10",
+    "capability": "capability-12-foundational"
+  },
+  {
+    "id": "activity-259",
+    "activityType": "formal_10",
+    "capability": "capability-12-highlyadvanced"
+  },
+  {
+    "id": "activity-260",
+    "activityType": "formal_10",
+    "capability": "capability-12-intermediate"
+  },
+  {
+    "id": "activity-261",
+    "activityType": "formal_10",
+    "capability": "capability-13-adept"
+  },
+  {
+    "id": "activity-262",
+    "activityType": "formal_10",
+    "capability": "capability-13-advanced"
+  },
+  {
+    "id": "activity-263",
+    "activityType": "formal_10",
+    "capability": "capability-13-foundational"
+  },
+  {
+    "id": "activity-264",
+    "activityType": "formal_10",
+    "capability": "capability-13-highlyadvanced"
+  },
+  {
+    "id": "activity-265",
+    "activityType": "formal_10",
+    "capability": "capability-13-intermediate"
+  },
+  {
+    "id": "activity-266",
+    "activityType": "formal_10",
+    "capability": "capability-14-adept"
+  },
+  {
+    "id": "activity-267",
+    "activityType": "formal_10",
+    "capability": "capability-14-advanced"
+  },
+  {
+    "id": "activity-268",
+    "activityType": "formal_10",
+    "capability": "capability-14-foundational"
+  },
+  {
+    "id": "activity-269",
+    "activityType": "formal_10",
+    "capability": "capability-14-highlyadvanced"
+  },
+  {
+    "id": "activity-270",
+    "activityType": "formal_10",
+    "capability": "capability-14-intermediate"
+  },
+  {
+    "id": "activity-271",
+    "activityType": "formal_10",
+    "capability": "capability-15-adept"
+  },
+  {
+    "id": "activity-272",
+    "activityType": "formal_10",
+    "capability": "capability-15-advanced"
+  },
+  {
+    "id": "activity-273",
+    "activityType": "formal_10",
+    "capability": "capability-15-foundational"
+  },
+  {
+    "id": "activity-274",
+    "activityType": "formal_10",
+    "capability": "capability-15-highlyadvanced"
+  },
+  {
+    "id": "activity-275",
+    "activityType": "formal_10",
+    "capability": "capability-15-intermediate"
+  },
+  {
+    "id": "activity-276",
+    "activityType": "formal_10",
+    "capability": "capability-16-adept"
+  },
+  {
+    "id": "activity-277",
+    "activityType": "formal_10",
+    "capability": "capability-16-advanced"
+  },
+  {
+    "id": "activity-278",
+    "activityType": "formal_10",
+    "capability": "capability-16-foundational"
+  },
+  {
+    "id": "activity-279",
+    "activityType": "formal_10",
+    "capability": "capability-16-highlyadvanced"
+  },
+  {
+    "id": "activity-280",
+    "activityType": "formal_10",
+    "capability": "capability-16-intermediate"
+  },
+  {
+    "id": "activity-281",
+    "activityType": "formal_10",
+    "capability": "capability-17-adept"
+  },
+  {
+    "id": "activity-282",
+    "activityType": "formal_10",
+    "capability": "capability-17-advanced"
+  },
+  {
+    "id": "activity-283",
+    "activityType": "formal_10",
+    "capability": "capability-17-foundational"
+  },
+  {
+    "id": "activity-284",
+    "activityType": "formal_10",
+    "capability": "capability-17-highlyadvanced"
+  },
+  {
+    "id": "activity-285",
+    "activityType": "formal_10",
+    "capability": "capability-17-intermediate"
+  },
+  {
+    "id": "activity-286",
+    "activityType": "formal_10",
+    "capability": "capability-18-adept"
+  },
+  {
+    "id": "activity-287",
+    "activityType": "formal_10",
+    "capability": "capability-18-advanced"
+  },
+  {
+    "id": "activity-288",
+    "activityType": "formal_10",
+    "capability": "capability-18-foundational"
+  },
+  {
+    "id": "activity-289",
+    "activityType": "formal_10",
+    "capability": "capability-18-highlyadvanced"
+  },
+  {
+    "id": "activity-290",
+    "activityType": "formal_10",
+    "capability": "capability-18-intermediate"
+  },
+  {
+    "id": "activity-291",
+    "activityType": "formal_10",
+    "capability": "capability-19-adept"
+  },
+  {
+    "id": "activity-292",
+    "activityType": "formal_10",
+    "capability": "capability-19-advanced"
+  },
+  {
+    "id": "activity-293",
+    "activityType": "formal_10",
+    "capability": "capability-19-foundational"
+  },
+  {
+    "id": "activity-294",
+    "activityType": "formal_10",
+    "capability": "capability-19-highlyadvanced"
+  },
+  {
+    "id": "activity-295",
+    "activityType": "formal_10",
+    "capability": "capability-19-intermediate"
+  },
+  {
+    "id": "activity-296",
+    "activityType": "formal_10",
+    "capability": "capability-20-adept"
+  },
+  {
+    "id": "activity-297",
+    "activityType": "formal_10",
+    "capability": "capability-20-advanced"
+  },
+  {
+    "id": "activity-298",
+    "activityType": "formal_10",
+    "capability": "capability-20-foundational"
+  },
+  {
+    "id": "activity-299",
+    "activityType": "formal_10",
+    "capability": "capability-20-highlyadvanced"
+  },
+  {
+    "id": "activity-300",
+    "activityType": "formal_10",
+    "capability": "capability-20-intermediate"
+  }
+]

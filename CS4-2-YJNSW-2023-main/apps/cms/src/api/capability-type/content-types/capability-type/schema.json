@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "capability_types",
+  "info": {
+    "singularName": "capability-type",
+    "pluralName": "capability-types",
+    "displayName": "Capability Type",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "capabilityTypeName": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    }
+  }
+}

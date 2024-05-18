@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "homepage_titles",
+  "info": {
+    "singularName": "homepage-title",
+    "pluralName": "homepage-titles",
+    "displayName": "Homepage Title",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "mainTitle": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "text"
+    }
+  }
+}

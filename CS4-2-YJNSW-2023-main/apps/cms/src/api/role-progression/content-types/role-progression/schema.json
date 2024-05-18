@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "role_progressions",
+  "info": {
+    "singularName": "role-progression",
+    "pluralName": "role-progressions",
+    "displayName": "Role Progression",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "goals": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::goal.goal"
+    },
+    "fromRole": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::job-role.job-role"
+    },
+    "toRole": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::job-role.job-role"
+    }
+  }
+}

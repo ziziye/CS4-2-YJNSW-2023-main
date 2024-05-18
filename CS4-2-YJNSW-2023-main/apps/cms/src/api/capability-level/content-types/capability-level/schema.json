@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "capability_levels",
+  "info": {
+    "singularName": "capability-level",
+    "pluralName": "capability-levels",
+    "displayName": "Capability Level"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "capabilityLevelName": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    }
+  }
+}

@@ -1,0 +1,18 @@
+services:
+  node-16:
+    image: node:16
+    user: node
+    working_dir: /workdir
+    volumes:
+      - ${PROJECT_PATH}:/workdir
+
+  node-18:
+    image: node:18
+    user: node
+    working_dir: /workdir
+    volumes:
+      - ${PROJECT_PATH}:/workdir
+
+networks:
+  default:
+    name: yj-nw

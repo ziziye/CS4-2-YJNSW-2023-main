@@ -1,0 +1,22 @@
+[
+  {
+    "id": "foundational",
+    "capabilityLevelName": "Foundational"
+  },
+  {
+    "id": "intermediate",
+    "capabilityLevelName": "Intermediate"
+  },
+  {
+    "id": "adept",
+    "capabilityLevelName": "Adept"
+  },
+  {
+    "id": "advanced",
+    "capabilityLevelName": "Advanced"
+  },
+  {
+    "id": "highlyadvanced",
+    "capabilityLevelName": "Highly Advanced"
+  }
+]

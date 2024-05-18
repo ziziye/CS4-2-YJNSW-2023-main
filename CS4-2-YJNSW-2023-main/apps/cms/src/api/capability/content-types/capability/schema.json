@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "capabilities",
+  "info": {
+    "singularName": "capability",
+    "pluralName": "capabilities",
+    "displayName": "Capability",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "capabilityName": {
+      "type": "string",
+      "required": true,
+      "unique": false
+    },
+    "capabilityLevel": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::capability-level.capability-level"
+    },
+    "capabilityDesc": {
+      "type": "text"
+    },
+    "activities": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::activity.activity",
+      "mappedBy": "capability"
+    },
+    "capabilityType": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::capability-type.capability-type"
+    }
+  }
+}

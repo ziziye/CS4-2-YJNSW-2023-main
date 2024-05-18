@@ -1,0 +1,52 @@
+.capability-level {
+  padding: 5px;
+}
+
+.capability-level-body-left {
+  float: left;
+  width: 50%;
+  padding-right: 10px;
+}
+
+.capability-level-body-right {
+  float: right;
+  width: 50%;
+  padding-right: 10px;
+}
+
+.capability-level-title-left {
+  float: left;
+  width: 51.5%;
+}
+
+.capability-level-title-right {
+  float: right;
+  width: 48.5%;
+}
+
+.capability-development {
+  vertical-align: top;
+  text-align: center;
+}
+
+.capability-development h4 {
+  padding-top: 22.5px;
+}
+
+.capability-level-body-left > p {
+  position: relative;
+  white-space: pre-wrap;
+  line-height: 17.5px;
+  margin-right: 17.5px;
+}
+
+.capability-level-body-right > p {
+  position: relative;
+  white-space: pre-wrap;
+  line-height: 17.5px;
+  margin-right: 17.5px;
+}
+
+.adequate {
+  background-color: var(--nsw-status-success-bg);
+}

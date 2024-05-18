@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "bootstrap the project",
+  "type": "module",
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "node-fetch": "^3.2.4"
+  },
+  "scripts": {
+    "bootstrap": "node src/index.js"
+  },
+  "author": "cs4-2",
+  "license": "UNLICENSED"
+}

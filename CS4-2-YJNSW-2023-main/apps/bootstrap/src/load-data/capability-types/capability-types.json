@@ -1,0 +1,26 @@
+[
+  {
+    "id": "personal-attributes",
+    "capabilityTypeName": "Personal Attributes"
+  },
+  {
+    "id": "relationships",
+    "capabilityTypeName": "Relationships"
+  },
+  {
+    "id": "results",
+    "capabilityTypeName": "Results"
+  },
+  {
+    "id": "business-enablers",
+    "capabilityTypeName": "Business Enablers"
+  },
+  {
+    "id": "people-management",
+    "capabilityTypeName": "People Management"
+  },
+  {
+    "id": "demonstrate-accountability",
+    "capabilityTypeName": "Demonstrate Accountability"
+  }
+]
