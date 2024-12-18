@@ -24,17 +24,6 @@ Youth Justice.
     - Development required which can’t be obtained in current role including qualifications
     - Goal library
 
-## Team
-
-| Name                    | Role / Focus   | SID       | Email                      |
-| ----------------------- | -------------- | --------- | -------------------------- |
-| Adrian Rahardi Haryanto | Co-Lead - PM   | 490276785 | adri5052@uni.sydney.edu.au |
-| Alexander Danilevsky    | Co-Lead - Tech | 470177709 | adan8226@uni.sydney.edu.au |
-| Daniel Blazeski         | UI/UX          | 510420576 | dbla8407@uni.sydney.edu.au |
-| Dominic Blazeski        | UI/UX          | 510420602 | dbla0201@uni.sydney.edu.au |
-| Nikola Vukovic          | Front-end      | 500693232 | nvuk4148@uni.sydney.edu.au |
-| Xinzhou Lyu             | CMS            | 490459931 | xlyu0158@uni.sydney.edu.au |
-
 ## Prerequisites
 
 1. [Docker](https://docs.docker.com/engine/install/)
